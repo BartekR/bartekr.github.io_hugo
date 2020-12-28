@@ -1,0 +1,13 @@
+<figure>
+    <a href="#{{ .Destination | md5 }}-lightbox"><img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}"></a>
+    <figcaption>
+        {{ if .Title }}
+        <p>{{ .Title | markdownify }}</p>
+        {{ else if .Text }}
+        <p>{{ .Text | markdownify }}</p>
+        {{ end }}
+    </figcaption>
+</figure>
+<a href="#_" class="lightbox" id="{{ .Destination | md5 }}-lightbox">
+    <img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}">
+</a>
