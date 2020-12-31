@@ -22,7 +22,7 @@ One day I asked myself a question - how many books do I read during the year? I 
 11. Andrzej Sapkowski "The Last Wish" (PL: "Ostatnie życzenie") 01.03.2020.
 12. Andrzej Sapkowski "Sword of Destiny" (PL: "Miecz przeznaczenia") 04.03.2020.
 13. Andrzej Sapkowski "Blood of Elves" (PL: "Krew Elfów") 09.03.2020.
-14. Andrzej Saprowski "Time of Contempt" (PL: "Czas Pogardy") 21.03.2020.
+14. Andrzej Sapkowski "Time of Contempt" (PL: "Czas Pogardy") 21.03.2020.
 15. Kornelia Orwat "Jak być mamą w edukacji domowej i nie (dac się) zwariować" (PL) 30.03.2020.
 16. Andrzej Sapkowski "Baptism of Fire" (PL: "Chrzest Ognia") 31.03.2020.
 17. Andrzej Sapkowski "The Tower of Swallow" (PL: "Wieża Jaskółki") 11.04.2020.
@@ -46,6 +46,7 @@ One day I asked myself a question - how many books do I read during the year? I 
 35. Sebastien de Castell "Tyrant’s Throne" (PL: "Tron Tyrana") 15.11.2020.
 36. Margaret Atwood "Handmaid's Tale" (PL: "Opowieść podręcznej") 29.11.2020.
 37. Radosław Kotarski "Inaczej" (PL) 15.12.2020.
+38. Marcin Ciszewski "Deszcz" (PL) 30.12.2020.
 
 *) I've read this book one page a day
 
