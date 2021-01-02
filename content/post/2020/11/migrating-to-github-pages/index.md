@@ -6,7 +6,7 @@ images:
   - src: "2020/11/01/migrating-to-github-pages/images/GitHubPages.png"
     alt: ""
     stretch: ""
-tags: ['GitHub', 'hubo', 'WordPress']
+tags: ['GitHub', 'hugo', 'WordPress']
 categories: ['Not-So-Technical']
 ---
 
