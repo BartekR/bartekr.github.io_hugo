@@ -7,6 +7,10 @@ layout: about
 
 One day I asked myself a question - how many books do I read during the year? I assume it's about 40, but wanted to check it. So for the year 2018, I started writing down the books I read. I published it on twitter, but some books took me quite some time to finish (like ~1000 pages "The Way Of Kings" by Brandon Sanderson), and I forgot the numbers. So - besides publishing on twitter, I began writing down right here. The dates (when I finished reading the book) start from #4 in 2018, as I started to pay attention to them.
 
+## 2021
+
+1. Pernille Ripp "Passionate Learners: How to Engage and Empower Your Students" (PL: "Uczyć (się) z pasją. Jak sprawić, by uczenie (się) było fascynującą podróżą")
+
 ## 2020
 
 1. Maja Lidia Kossakowska "Bramy Światłości, tom 1" (PL) 08.01.2020.
