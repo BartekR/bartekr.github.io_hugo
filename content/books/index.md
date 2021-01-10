@@ -9,7 +9,8 @@ One day I asked myself a question - how many books do I read during the year? I 
 
 ## 2021
 
-1. Pernille Ripp "Passionate Learners: How to Engage and Empower Your Students" (PL: "Uczyć (się) z pasją. Jak sprawić, by uczenie (się) było fascynującą podróżą")
+1. Pernille Ripp "Passionate Learners: How to Engage and Empower Your Students" (PL: "Uczyć (się) z pasją. Jak sprawić, by uczenie (się) było fascynującą podróżą") 06.01.2021.
+2. .
 
 ## 2020
 
