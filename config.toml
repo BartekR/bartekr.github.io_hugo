@@ -4,6 +4,7 @@ title = "BartekR"
 theme = "hugo-future-imperfect-slim"
 DefaultContentLanguage = "en"
 paginate = 10
+googleAnalytics         = "UA-109318393-1"
 
 [permalinks]
   post = ":year/:month/:day/:title"
@@ -57,10 +58,26 @@ paginate = 10
       alt                 = "BartekR profile pic"
 
   [params.sidebar]
-    about               = "Bartekr 01"
+    about               = "Posts about SQL Server, SSIS and automation for my future self, but you might find something useful."
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
+
+  [params.footer]
+    rssFooter           = true
+    socialFooter        = true
+
+  [params.staticman]
+    enabled             = false
+    api                 = ""  # No Trailing Slash
+    gitProvider         = ""
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      siteKey           = ""
+      encryptedKey      = ""
 
 [menu]
 
