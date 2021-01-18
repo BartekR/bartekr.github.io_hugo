@@ -11,7 +11,8 @@ One day I asked myself a question - how many books do I read during the year? I 
 
 1. Pernille Ripp "Passionate Learners: How to Engage and Empower Your Students" (PL: "Uczyć (się) z pasją. Jak sprawić, by uczenie (się) było fascynującą podróżą") 06.01.2021.
 2. Sara Pennypacker "Pax" 13.01.2021.
-3. .
+3. Hania Sywula "W głowie się poprzewracało" (PL) 18.01.2021.
+4. Remigiusz Mróz "Halny" (PL)
 
 ## 2020
 
@@ -29,7 +30,7 @@ One day I asked myself a question - how many books do I read during the year? I 
 12. Andrzej Sapkowski "Sword of Destiny" (PL: "Miecz przeznaczenia") 04.03.2020.
 13. Andrzej Sapkowski "Blood of Elves" (PL: "Krew Elfów") 09.03.2020.
 14. Andrzej Sapkowski "Time of Contempt" (PL: "Czas Pogardy") 21.03.2020.
-15. Kornelia Orwat "Jak być mamą w edukacji domowej i nie (dac się) zwariować" (PL) 30.03.2020.
+15. Kornelia Orwat "Jak być mamą w edukacji domowej i nie (dać się) zwariować" (PL) 30.03.2020.
 16. Andrzej Sapkowski "Baptism of Fire" (PL: "Chrzest Ognia") 31.03.2020.
 17. Andrzej Sapkowski "The Tower of Swallow" (PL: "Wieża Jaskółki") 11.04.2020.
 18. Andrzej Sapkowski "Lady of the Lake" (PL: "Pani Jeziora") 21.04.2020.
