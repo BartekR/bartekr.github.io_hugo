@@ -4,7 +4,7 @@ date: 2021-02-28 # Date of post creation.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 images:
-  - src: "2021/02/28/build-yourself-a-webapp-in-azure/images/basic-web-app.png"
+  - src: "2021/02/28/build-yourself-a-web-app-in-azure/images/basic-web-app.png"
     alt: ""
     stretch: ""
 tags: ['web app', 'application gateway', 'architecture']
