@@ -12,7 +12,10 @@ One day I asked myself a question - how many books do I read during the year? I 
 1. Pernille Ripp "Passionate Learners: How to Engage and Empower Your Students" (PL: "Uczyć (się) z pasją. Jak sprawić, by uczenie (się) było fascynującą podróżą") 06.01.2021.
 2. Sara Pennypacker "Pax" 13.01.2021.
 3. Hania Sywula "W głowie się poprzewracało" (PL) 18.01.2021.
-4. Remigiusz Mróz "Halny" (PL)
+4. Remigiusz Mróz "Halny" (PL) 24.01.2021.
+5. Cixin Liu "Three body problem" (PL: "Problem trzech ciał") 13.02.2021.
+6. Cixin Liu "The Dark Forest" (PL: "Ciemny Las") 05.03.2021.
+7. Cixin Liu "Death's End" (PL: "Koniec Śmierci)
 
 ## 2020
 
