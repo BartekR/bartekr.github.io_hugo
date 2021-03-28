@@ -15,7 +15,9 @@ One day I asked myself a question - how many books do I read during the year? I 
 4. Remigiusz Mróz "Halny" (PL) 24.01.2021.
 5. Cixin Liu "Three body problem" (PL: "Problem trzech ciał") 13.02.2021.
 6. Cixin Liu "The Dark Forest" (PL: "Ciemny Las") 05.03.2021.
-7. Cixin Liu "Death's End" (PL: "Koniec Śmierci)
+7. Cixin Liu "Death's End" (PL: "Koniec Śmierci) 22.03.2021.
+8. Anders Hansen "Skärmhjärnan" (PL: "Wyloguj swój mózg") 28.03.2021.
+9. Brandon Sanderson "Snapshot" (PL: "Migawka")
 
 ## 2020
 
