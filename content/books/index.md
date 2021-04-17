@@ -17,7 +17,10 @@ One day I asked myself a question - how many books do I read during the year? I 
 6. Cixin Liu "The Dark Forest" (PL: "Ciemny Las") 05.03.2021.
 7. Cixin Liu "Death's End" (PL: "Koniec Śmierci) 22.03.2021.
 8. Anders Hansen "Skärmhjärnan" (PL: "Wyloguj swój mózg") 28.03.2021.
-9. Brandon Sanderson "Snapshot" (PL: "Migawka")
+9. Brandon Sanderson "Snapshot" (PL: "Migawka") 30.03.2021.
+10. Anthony Ryan "Blood song" (PL: "Pieśń krwi") 06.04.2021.
+11. Anthony Ryan "Tower Lord" (PL: "Lord wieży") 17.04.2021.
+12. Anthony Ryan "Queen of Fire" (PL: "Królowa Ognia")
 
 ## 2020
 
