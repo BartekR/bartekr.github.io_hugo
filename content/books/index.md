@@ -20,7 +20,8 @@ One day I asked myself a question - how many books do I read during the year? I 
 9. Brandon Sanderson "Snapshot" (PL: "Migawka") 30.03.2021.
 10. Anthony Ryan "Blood song" (PL: "Pieśń krwi") 06.04.2021.
 11. Anthony Ryan "Tower Lord" (PL: "Lord wieży") 17.04.2021.
-12. Anthony Ryan "Queen of Fire" (PL: "Królowa Ognia")
+12. Anthony Ryan "Queen of Fire" (PL: "Królowa Ognia") 05.05.2021.
+13. Irving Stone "The Agony and the Ecstasy" (PL: "Udręka i Ekstaza")
 
 ## 2020
 
