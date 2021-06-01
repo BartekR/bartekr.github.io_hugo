@@ -21,7 +21,8 @@ One day I asked myself a question - how many books do I read during the year? I 
 10. Anthony Ryan "Blood song" (PL: "Pieśń krwi") 06.04.2021.
 11. Anthony Ryan "Tower Lord" (PL: "Lord wieży") 17.04.2021.
 12. Anthony Ryan "Queen of Fire" (PL: "Królowa Ognia") 05.05.2021.
-13. Irving Stone "The Agony and the Ecstasy" (PL: "Udręka i Ekstaza")
+13. Irving Stone "The Agony and the Ecstasy" (PL: "Udręka i Ekstaza") 31.05.2021.
+14. Walter Isaacson "Leonardo da Vinci. Biography" (PL: "Leonardo da Vinci")
 
 ## 2020
 
@@ -113,7 +114,7 @@ One day I asked myself a question - how many books do I read during the year? I 
 8. Neal Shusterman "Scythe" (PL: "Kosiarze") 11.04.2018.
 9. Remigiusz Mróz "Testament" (PL) 16.04.2018.
 10. Remigiusz Mróz "Behawiorysta" (PL), 24.04.2018.
-11. Brandon Sanderson "The Way Of Kings" (PL: "Droga Królów") 25.05.02018.
+11. Brandon Sanderson "The Way Of Kings" (PL: "Droga Królów") 25.05.2018.
 12. Brandon Sanderson "Words of Radiance" (PL: "Słowa Światłości") 09.06.2018.
 13. Brandon Sanderson "Oathbringer" (PL: "Dawca Przysięgi") 03.07.2018. + "Edgedancer" (PL: "Tancerka Krawędzi")
 14. Remigiusz Mróz "Zerwa" (PL) 06.07.2018.
