@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Name1",
+        "value" : 10.5,
+        "attributes" : ["a1", "a2"]
+    },
+    {
+        "name" : "Name2",
+        "value" : 20.5,
+        "attributes" : ["a1", "a3"]
+    },
+    {
+        "name" : "Name3",
+        "value" : 30.5,
+        "attributes" : ["a2", "a4"]
+    }
+]
