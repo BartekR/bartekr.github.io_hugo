@@ -1,7 +1,7 @@
 ---
 title: "Read Data From Azure Blob Storage to Azure SQL Database" # Title of the blog post.
 date: 2021-06-13 # Date of post creation.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 images:
   - src: "2021/06/13/read-data-from-azure-blob-storage-to-azure-sql-database/images/StorageAccountContent.png"
