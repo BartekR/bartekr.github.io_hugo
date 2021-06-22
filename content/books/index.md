@@ -22,7 +22,8 @@ One day I asked myself a question - how many books do I read during the year? I 
 11. Anthony Ryan "Tower Lord" (PL: "Lord wieży") 17.04.2021.
 12. Anthony Ryan "Queen of Fire" (PL: "Królowa Ognia") 05.05.2021.
 13. Irving Stone "The Agony and the Ecstasy" (PL: "Udręka i Ekstaza") 31.05.2021.
-14. Walter Isaacson "Leonardo da Vinci. Biography" (PL: "Leonardo da Vinci")
+14. Walter Isaacson "Leonardo da Vinci. Biography" (PL: "Leonardo da Vinci") 22.06.2021.
+15. Thomas R. Martin "Ancient Greece. From Prehistoric to Hellenistic Times" (PL: "Starożytna Grecja. Od prehistorii do czasów hellenistycznych")
 
 ## 2020
 
