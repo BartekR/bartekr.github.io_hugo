@@ -23,13 +23,27 @@ One day I asked myself a question - how many books do I read during the year? I 
 12. Anthony Ryan "Queen of Fire" (PL: "Królowa Ognia") 05.05.2021.
 13. Irving Stone "The Agony and the Ecstasy" (PL: "Udręka i Ekstaza") 31.05.2021.
 14. Walter Isaacson "Leonardo da Vinci. Biography" (PL: "Leonardo da Vinci") 22.06.2021.
-15. Thomas R. Martin "Ancient Greece. From Prehistoric to Hellenistic Times" (PL: "Starożytna Grecja. Od prehistorii do czasów hellenistycznych")
+15. Thomas R. Martin "Ancient Greece. From Prehistoric to Hellenistic Times" (PL: "Starożytna Grecja. Od prehistorii do czasów hellenistycznych") 08.07.2021.
+16. Lloyd C. Douglas "The Robe" (PL: "Szata") 24.07.2021.
+17. Remigiusz Mróz "Umorzenie" (PL) 28.07.2021.
+18. Remigiusz Mróz "Wyrok" (PL) 30.07.2021.
+19. Jakub Morawiec "Początki Państw - Dania" (PL) 09.08.2021.
+20. Remigiusz Mróz "Ekstradycja" (PL) 12.08.2021.
+21. Remigiusz Mróz "Precedens" (PL) 13.08.2021.
+22. Remigiusz Mróz "Afekt" (PL) 17.08.2021.
+23. Remigiusz Mróz "Ekstremista" (PL) 21.08.2021.
+24. Stanisław Lem "Solaris" (PL) 30.08.2021.
+25. Brent Weeks "Black Prism (PL: "Czarny Pryzmat") 17.09.2021.
+26. Brent Weeks "The Blinding Knife" (PL: "Oślepiający nóż") 03.10.2021.
+27. Brent Weeks "Broken Eye" (PL: "Okaleczone oko") 19.10.2021.
+28. Brent Weeks "Blood Mirror" (PL: "Krwawe zwierciadło") 31.10.2021.
+29. Brent Weeks "Burning White" (PL: "Gorejąca biel")
 
 ## 2020
 
 1. Maja Lidia Kossakowska "Bramy Światłości, tom 1" (PL) 08.01.2020.
 2. Maja Lidia Kossakowska "Bramy Światłości, tom 2" (PL) 14.01.2020.
-3. Elisabeth Åsbrink "Orden som formade Sverige" (PL: "Made in Sweden. 60 słów, które stworzyły naród", 18.01.2020.)
+3. Elisabeth Åsbrink "Orden som formade Sverige" (PL: "Made in Sweden. 60 słów, które stworzyły naród") 18.01.2020.
 4. Maja Lidia Kossakowska "Bramy Światłości, tom 3" (PL) 22.01.2020.
 5. Andrzej Ziemiański, "Virion. Wyrocznia" (PL) 29.01.2020.
 6. Andrzej Ziemiański, "Virion. Obława" (PL) 01.02.2020.
