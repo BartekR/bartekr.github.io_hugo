@@ -37,7 +37,7 @@ One day I asked myself a question - how many books do I read during the year? I 
 26. Brent Weeks "The Blinding Knife" (PL: "Oślepiający nóż") 03.10.2021.
 27. Brent Weeks "Broken Eye" (PL: "Okaleczone oko") 19.10.2021.
 28. Brent Weeks "Blood Mirror" (PL: "Krwawe zwierciadło") 31.10.2021.
-29. Brent Weeks "Burning White" (PL: "Gorejąca biel")
+29. Brent Weeks "Burning White" (PL: "Gorejąca biel") 11.11.2021. (part 1)
 
 ## 2020
 
