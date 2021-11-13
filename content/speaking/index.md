@@ -6,7 +6,7 @@ layout: about
 
 ## (work in progress)
 
-| > Event                                                        | Date      | Session                                         |
+| Event                                                          | Date      | Session                                         |
 |----------------------------------------------------------------|-----------|-------------------------------------------------|
 |![SQL Saturday Vienna 2020](images/sqlsat917_header.png)        |24.01.2020.|First steps with SQL Server on Docker            |
 |![SQL Saturday Toruń 2019](images/sqlsat914_header.png)         |28.09.2019.|How does the recursive CTE work?                 |
