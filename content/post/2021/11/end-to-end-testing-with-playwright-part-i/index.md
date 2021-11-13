@@ -24,6 +24,7 @@ So first - run the following commands in the shell of your choice (I use `pwsh`)
 ```cmd
 dotnet new blazorserver -o BlazorApp --no-https
 cd BlazorApp
+dotnet new gitignore
 dotnet watch
 ```
 
@@ -31,7 +32,7 @@ This should start the browser, and you should see a default Blazor app:
 
 ![Sample Blazor app](./images/SampleBlazorApp.png#center)
 
-`dotnet new blazorserver -o BlazorApp --no-https` creates a new application in the `BlazorApp` folder (`-o`) and disables HTTPS (`--no-https`), as I don't need it in this example. `dotnet watch` restores dependencies, builds the project and waits for the code changes, to immediately reload the browser. The hot reload is not required - I could use just `dotnet run`, but I copied the earlier tutorial commands. Also - `dotnet run` does not run the browser, and you have to do it manually. And to run it manually, you have to know the exact address. You will find it in the `<BlazorAppFolder>/Properties/launchSettings.json` file in the `properties` section.
+`dotnet new blazorserver -o BlazorApp --no-https` creates a new application in the `BlazorApp` folder (`-o`) and disables HTTPS (`--no-https`), as I don't need it in this example. `dotnet new gitignore` adds a default .gitignore file for .NET. `dotnet watch` restores dependencies, builds the project and waits for the code changes, to immediately reload the browser. The hot reload is not required - I could use just `dotnet run`, but I copied the earlier tutorial commands. Also - `dotnet run` does not run the browser, and you have to do it manually. And to run it manually, you have to know the exact address. You will find it in the `<BlazorAppFolder>/Properties/launchSettings.json` file in the `properties` section.
 
 ![launchSettings.json](./images/launchSettings.png#center)
 
@@ -43,6 +44,7 @@ dotnet new nunit -n BlazorApp.Tests
 cd BlazorApp.Tests
 dotnet tool install --global Microsoft.Playwright.CLI
 dotnet add package Microsoft.Playwright.NUnit
+dotnet new gitignore
 dotnet build
 playwright install
 ```
@@ -54,8 +56,9 @@ Step by step:
 3. I want to configure the project, so I go into the directory
 4. I install `Playwright` globally
 5. I install the Playwright test adapter for NUnit
-6. I build the project (you will get the message *Please make sure Playwright is installed and built prior to using Playwright tool* if you don't build the project first)
-7. I install the Playwright library and browsers (it can take some time)
+6. I add the default .gitignore file
+7. I build the project (you will get the message *Please make sure Playwright is installed and built prior to using Playwright tool* if you don't build the project first)
+8. I install the Playwright library and browsers (it can take some time)
 
 Now I can write the first UI test for Blazor.
 
