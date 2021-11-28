@@ -1,7 +1,7 @@
 ---
 title: "End-to-End testing with Playwright, part II" # Title of the blog post.
 date: 2021-11-28 # Date of post creation.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 images:
   - src: "2021/11/28/end-to-end-testing-with-playwright-part-ii/images/Header.png"
