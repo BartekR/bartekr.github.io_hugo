@@ -7,6 +7,14 @@ layout: about
 
 One day I asked myself a question - how many books do I read during the year? I assume it's about 40, but wanted to check it. So for the year 2018, I started writing down the books I read. I published it on twitter, but some books took me quite some time to finish (like ~1000 pages "The Way Of Kings" by Brandon Sanderson), and I forgot the numbers. So - besides publishing on twitter, I began writing down right here. The dates (when I finished reading the book) start from #4 in 2018, as I started to pay attention to them.
 
+## 2022
+
+1. Angus Watson "The Land You Never Leave" (PL: "Ziemi tej nie opuścisz") 10.01.2022.
+2. Angus Watson "Where Gods Fear to Go" (PL: "Gdzie boją się iść bogowie") 21.01.2022.
+3. Gregor Ziemer "Education for Death" (PL: "Jak wychować nazistę") 25.01.2022.
+4. Michał Cetnarowski "Gnoza" (PL) 01.02.2022.
+5. Magdalena Salik "Płomień" (PL)
+
 ## 2021
 
 1. Pernille Ripp "Passionate Learners: How to Engage and Empower Your Students" (PL: "Uczyć (się) z pasją. Jak sprawić, by uczenie (się) było fascynującą podróżą") 06.01.2021.
@@ -38,7 +46,11 @@ One day I asked myself a question - how many books do I read during the year? I 
 27. Brent Weeks "Broken Eye" (PL: "Okaleczone oko") 19.10.2021.
 28. Brent Weeks "Blood Mirror" (PL: "Krwawe zwierciadło") 31.10.2021.
 29. Brent Weeks "Burning White" (PL: "Gorejąca biel") 11.11.2021. (part 1), 22.11.2021. (part 2)
-30. Artur Nowak, Stanisław Obirek "Gomora" (PL)
+30. Artur Nowak, Stanisław Obirek "Gomora" (PL) 05.12.2021.
+31. Piotr C. "Pokolenie IKEA" (PL) 08.12.2021.
+32. Remigiusz Mróz "Przepaść" (PL) 14.12.2021.
+33. Remigiusz Mróz "Egzekucja" (PL) 19.12.2021.
+34. Angus Watson "You Die When You Die" (PL: "Umrzesz kiedy umrzesz") 30.12.2021.
 
 ## 2020
 
