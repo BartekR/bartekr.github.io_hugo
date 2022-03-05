@@ -13,7 +13,10 @@ One day I asked myself a question - how many books do I read during the year? I 
 2. Angus Watson "Where Gods Fear to Go" (PL: "Gdzie boją się iść bogowie") 21.01.2022.
 3. Gregor Ziemer "Education for Death" (PL: "Jak wychować nazistę") 25.01.2022.
 4. Michał Cetnarowski "Gnoza" (PL) 01.02.2022.
-5. Magdalena Salik "Płomień" (PL)
+5. Magdalena Salik "Płomień" (PL) 09.02.2022.
+6. Rebecca F. Kuang "The Poppy War" (PL: "Wojna makowa") 19.02.2022.
+7. Rebecca F. Kuang "The Dragon Republic" (PL: "Republika Smoka") 27.02.2022.
+8. Rebecca F. Kuang "The Burning God" (PL: "Płonący Bóg")
 
 ## 2021
 
