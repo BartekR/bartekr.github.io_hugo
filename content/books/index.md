@@ -16,7 +16,14 @@ One day I asked myself a question - how many books do I read during the year? I 
 5. Magdalena Salik "Płomień" (PL) 09.02.2022.
 6. Rebecca F. Kuang "The Poppy War" (PL: "Wojna makowa") 19.02.2022.
 7. Rebecca F. Kuang "The Dragon Republic" (PL: "Republika Smoka") 27.02.2022.
-8. Rebecca F. Kuang "The Burning God" (PL: "Płonący Bóg")
+8. Rebecca F. Kuang "The Burning God" (PL: "Płonący Bóg") 13.03.2022.
+9. Tim Marshall "Prisoners of geography" (PL: "Więźniowie geografii") 23.03.2022.
+10. Tim Marshall (PL: "Potęga geografii") 04.04.2022.
+11. Remigiusz Mróz "Projekt Riese" (PL) 08.04.2022.
+12. Jakub Ćwiek "Zawisza Czarny" (PL) 12.08.2022.
+13. Marcin Ogdowski "(Dez)informacja" (PL) 16.04.2022.
+14. Marcin Ogdowski "Stan wyjątkowy" (PL) 21.04.2022.
+15. Wojciech Dutka "Apokryf" (PL)
 
 ## 2021
 
