@@ -23,7 +23,16 @@ One day I asked myself a question - how many books do I read during the year? I 
 12. Jakub Ćwiek "Zawisza Czarny" (PL) 12.08.2022.
 13. Marcin Ogdowski "(Dez)informacja" (PL) 16.04.2022.
 14. Marcin Ogdowski "Stan wyjątkowy" (PL) 21.04.2022.
-15. Wojciech Dutka "Apokryf" (PL)
+15. Wojciech Dutka "Apokryf" (PL) 01.05.2022.
+16. Jonny Thomson "Mini Philosophy: A Small Book of Big Ideas" (PL: "Filozofia dla zabieganych. Mała książeczka o wielkich ideach.") 04.05.2022. *)
+17. Jakub Ćwiek "Stróże" (PL) 08.05.2022.
+18. Jakub Ćwiek "Stróże. Brudnopis Boga" (PL) 13.05.2022.
+19. George S. Clason "The Richest Man in Babylon" (PL: "Najbogatszy człowiek w Babilonie") 15.05.2022.
+20. Piotr Jacoń "My, Trans" (PL) 17.05.2022.
+21. Remigiusz Mróz "Skazanie" (PL) 21.05.2022.
+22. Yuval Noah Harari "Sapiens: A Brief History of Humankind" (PL: "Sapiens. Od zwierząt do bogów")
+
+*) I've read this book one chapter a day
 
 ## 2021
 
