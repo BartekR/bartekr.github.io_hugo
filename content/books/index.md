@@ -20,7 +20,7 @@ One day I asked myself a question - how many books do I read during the year? I 
 9. Tim Marshall "Prisoners of geography" (PL: "Więźniowie geografii") 23.03.2022.
 10. Tim Marshall (PL: "Potęga geografii") 04.04.2022.
 11. Remigiusz Mróz "Projekt Riese" (PL) 08.04.2022.
-12. Jakub Ćwiek "Zawisza Czarny" (PL) 12.08.2022.
+12. Jakub Ćwiek "Zawisza Czarny" (PL) 12.04.2022.
 13. Marcin Ogdowski "(Dez)informacja" (PL) 16.04.2022.
 14. Marcin Ogdowski "Stan wyjątkowy" (PL) 21.04.2022.
 15. Wojciech Dutka "Apokryf" (PL) 01.05.2022.
@@ -132,7 +132,7 @@ One day I asked myself a question - how many books do I read during the year? I 
 14. Mark Lawrence "Prince of Fools" (PL: "Książę głupców") 28.05.2019.
 15. Mark Lawrence "The Liar's Key" (PL: "Klucz kłamcy") 20.06.2019.
 16. Garth Nix "Clariel" 27.06.2019.
-17. Radek Kotarski "Włam sie do mózgu" (PL) 06.07.2019.
+17. Radek Kotarski "Włam się do mózgu" (PL) 06.07.2019.
 18. Mark Lawrence "The Wheel of Osheim" (PL: "Koło Osheim") 02.08.2019.
 19. Brandon Sanderson "Rithmatist" (PL: "Rytmatysta") 07.08.2019.
 20. Eliyahu M. Goldratt, Jeff Cox" The Goal: A Process of Ongoing Improvement" (PL: "Cel I: Doskonałość w produkcji") 11.08.2019.
