@@ -30,7 +30,11 @@ One day I asked myself a question - how many books do I read during the year? I 
 19. George S. Clason "The Richest Man in Babylon" (PL: "Najbogatszy człowiek w Babilonie") 15.05.2022.
 20. Piotr Jacoń "My, Trans" (PL) 17.05.2022.
 21. Remigiusz Mróz "Skazanie" (PL) 21.05.2022.
-22. Yuval Noah Harari "Sapiens: A Brief History of Humankind" (PL: "Sapiens. Od zwierząt do bogów")
+22. Yuval Noah Harari "Sapiens: A Brief History of Humankind" (PL: "Sapiens. Od zwierząt do bogów") 05.06.2022.
+23. Richard Morgan "Altered carbon" (PL: "Modyfikowany węgiel") 19.06.2022.
+24. Vaclav Smil "Numbers Don't Lie. 71 Things You Need to Know About the World" (PL: "Liczby nie kłamią") 28.06.2022.
+25. Aldous Huxley "Brave New World" (PL: "Nowy wspaniały świat") 03.07.2022.
+26. Małgorzata Gołota "Żyletkę zawsze noszę przy sobie" (PL)
 
 *) I've read this book one chapter a day
 
