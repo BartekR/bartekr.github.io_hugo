@@ -34,7 +34,17 @@ One day I asked myself a question - how many books do I read during the year? I 
 23. Richard Morgan "Altered carbon" (PL: "Modyfikowany węgiel") 19.06.2022.
 24. Vaclav Smil "Numbers Don't Lie. 71 Things You Need to Know About the World" (PL: "Liczby nie kłamią") 28.06.2022.
 25. Aldous Huxley "Brave New World" (PL: "Nowy wspaniały świat") 03.07.2022.
-26. Małgorzata Gołota "Żyletkę zawsze noszę przy sobie" (PL)
+26. Małgorzata Gołota "Żyletkę zawsze noszę przy sobie" (PL) 08.07.2022.
+27. Volker Busch "Kopf frei! Wie Sie Klarheit, Konzentration und Kreativität gewinnen" (PL: "Wolna głowa. Jak zadbać o swoją koncentrację i kreatywność") 17.07.2022.
+28. Magdalena Kostyszyn "Też tak mam" (PL)  19.07.2022.
+29. Marcin Adamiec "Zniknięty ksiądz. Moja historia" (PL) 22.07.2022.
+30. Bogusław Polch, Arnold Mostowicz, Alfred Górny "Ekspedycja" (PL, comics) 24.07.2022
+31. Piotr Prokopowicz, Sebastian Drzewiecki "Lider wystarczająco dobry" (PL) 01.08.2022.
+32. Kel Kade "Free The Darkness" (PL: "Powiernik Mieczy") 06.08.2022.
+33. Kel Kade "Reign of Madness" (PL: "Królestwo obłędu") 13.08.2022.
+34. Kel Kade "Legends of Ahn" (PL: "Legendy Ahn") 21.08.2022
+35. Kel Kade "Kingdoms And Chaos" (PL: "Królestwa i Chaos") 28.08.2022.
+36. Szymon Drejewicz "Zrozumieć BPMN" (PL)
 
 *) I've read this book one chapter a day
 
