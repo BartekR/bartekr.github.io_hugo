@@ -41,7 +41,7 @@ googleAnalytics         = "UA-109318393-1"
 
   [params.intro]
     header                = "BartekR"
-    paragraph             = "SQL Server. SSIS. PowerShell. Azure.<br/>1 wife. 1 daughter.3 dogs. 9 cats."
+    paragraph             = "SQL Server. SSIS. PowerShell. Azure.<br/>1 wife. 1 kid. 4 dogs. 10 cats."
     rssIntro              = true
     socialIntro           = true
     # You may not want to display a long intro above content in the
