@@ -44,7 +44,16 @@ One day I asked myself a question - how many books do I read during the year? I 
 33. Kel Kade "Reign of Madness" (PL: "Królestwo obłędu") 13.08.2022.
 34. Kel Kade "Legends of Ahn" (PL: "Legendy Ahn") 21.08.2022
 35. Kel Kade "Kingdoms And Chaos" (PL: "Królestwa i Chaos") 28.08.2022.
-36. Szymon Drejewicz "Zrozumieć BPMN" (PL)
+36. Marcin Mortka "Nie ma tego złego" (PL) 02.09.2022.
+37. Marcin Mortka "Głodna Puszcza" (PL) 06.09.2022.
+38. Robert Iger "The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company" (PL: "Przejażdżka życia. Czego nauczyłem się jako CEO The Walt Disney Company") 12.09.2022.
+39. Anthony Ryan "Wolf's Call" (PL: "Zew wilka") 22.09.2022.
+40. Marcin Mortka "Przed wyruszeniem w drogę" (PL) 23.09.2022.
+41. Robert Cialdini "Influence (Principles of Ethical Influence)" (PL: "Zasady wywierania wpływu na ludzi") 25.09.2022.
+42. Anna Nieznaj (PL) "Dolina niesamowitości" 02.10.2022.
+43. Anthony Ryan "Black Song" (PL: "Czarna Pieśń") 10.10.2022.
+44. Szymon Drejewicz "Zrozumieć BPMN" (PL)
+45. Greg McKeown "Essentialism: The Disciplined Pursuit of Less" (PL: "Esencjalista: mniej, ale lepiej")
 
 *) I've read this book one chapter a day
 
