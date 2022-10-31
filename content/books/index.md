@@ -52,8 +52,10 @@ One day I asked myself a question - how many books do I read during the year? I 
 41. Robert Cialdini "Influence (Principles of Ethical Influence)" (PL: "Zasady wywierania wpływu na ludzi") 25.09.2022.
 42. Anna Nieznaj (PL) "Dolina niesamowitości" 02.10.2022.
 43. Anthony Ryan "Black Song" (PL: "Czarna Pieśń") 10.10.2022.
-44. Szymon Drejewicz "Zrozumieć BPMN" (PL)
-45. Greg McKeown "Essentialism: The Disciplined Pursuit of Less" (PL: "Esencjalista: mniej, ale lepiej")
+44. Greg McKeown "Essentialism: The Disciplined Pursuit of Less" (PL: "Esencjalista: mniej, ale lepiej") 18.10.2022.
+45. Artur Nowak, Stanisław Obirek "Babilon" (PL) 23.10.2022.
+46. Frédéric Martel "In the Closet of the Vatican: Power, Homosexuality, Hypocrisy" (PL: "Sodoma. Hipokryzja i władza w Watykanie", FR: "Sodoma : Enquête au cœur du Vatican")
+47. Szymon Drejewicz "Zrozumieć BPMN" (PL)
 
 *) I've read this book one chapter a day
 
