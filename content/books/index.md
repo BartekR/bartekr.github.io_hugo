@@ -54,8 +54,12 @@ One day I asked myself a question - how many books do I read during the year? I 
 43. Anthony Ryan "Black Song" (PL: "Czarna Pieśń") 10.10.2022.
 44. Greg McKeown "Essentialism: The Disciplined Pursuit of Less" (PL: "Esencjalista: mniej, ale lepiej") 18.10.2022.
 45. Artur Nowak, Stanisław Obirek "Babilon" (PL) 23.10.2022.
-46. Frédéric Martel "In the Closet of the Vatican: Power, Homosexuality, Hypocrisy" (PL: "Sodoma. Hipokryzja i władza w Watykanie", FR: "Sodoma : Enquête au cœur du Vatican")
-47. Szymon Drejewicz "Zrozumieć BPMN" (PL)
+46. Frédéric Martel "In the Closet of the Vatican: Power, Homosexuality, Hypocrisy" (PL: "Sodoma. Hipokryzja i władza w Watykanie", FR: "Sodoma : Enquête au cœur du Vatican") 10.11.2022.
+47. Marcin Łokciewicz "Zamek rządzi" (PL) 11.11.2022.
+48. Anna Kurek "Szczęśliwy jak łosoś" (PL) 17.11.2022.
+49. Witold Jurasz "Demony Rosji" (PL) 21.11.2022.
+50. James Clear "Atomic Habits" (PL: "Atomowe nawyki")
+51. Szymon Drejewicz "Zrozumieć BPMN" (PL)
 
 *) I've read this book one chapter a day
 
