@@ -186,7 +186,7 @@ Once I know how to use `cidrsubnet()` and `cidrsubnets()` functions, I can assin
 - **subnetA** range 10.x.y.0 .. 10.x.y.63
 - **subnetB** range 10.x.y.64 .. 10.x.y.127
 - **subnetC** range 10.x.y.128 .. 10.x.y.191
-- **subnetD** range 10.x.y.191 .. 10.x.y.255
+- **subnetD** range 10.x.y.192 .. 10.x.y.255
 
 With this terraform code I can create subnets for a given virtual network:
 
