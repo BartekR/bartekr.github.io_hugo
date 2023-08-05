@@ -7,6 +7,41 @@ layout: about
 
 One day I asked myself a question - how many books do I read during the year? I assume it's about 40, but wanted to check it. So for the year 2018, I started writing down the books I read. I published it on twitter, but some books took me quite some time to finish (like ~1000 pages "The Way Of Kings" by Brandon Sanderson), and I forgot the numbers. So - besides publishing on twitter, I began writing down right here. The dates (when I finished reading the book) start from #4 in 2018, as I started to pay attention to them.
 
+## 2023
+
+1. Marcin Mortka "Druga Burza" (PL) 07.01.2023.
+2. Marcin Mortka "Utracona Godzina" (PL) 12.01.2023.
+3. Marcin Mortka "Skrzynia pełna dusz" (PL) 18.01.2023.
+4. Brandon Sanderson "The Alloy of Law" (PL: "Stop prawa") 23.01.2023
+5. Brandon Sanderson "Shadows of Self" (PL: "Cienie tożsamości") 02.02.2023.
+6. Brandon Sanderson "The Bands of Mourning" (PL: "Żałobne opaski") 12.02.2023.
+7. Maria Peszek "Nakurwiam Zen" (PL) 15.02.2023.
+8. Brandon Sanderson "Mistborn: Secret Story" (PL: "Z mgły zrodzony: Tajna historia") 16.02.2023.
+9. Brandon Sanderson "The Lost Metal" (PL: "Zaginiony metal") 28.02.2023.
+10. Anna Sólyom "Neko Café" (PL: "Kocia kawiarnia") 02.03.2023.
+11. Andrzej Dragan "Kwantechizm 2.0, czyli klatka na ludzi" (PL) 12.03.2023.
+12. Wojciech Dutka "Apostata" (PL) 22.03.2023.
+13. Yuval Noah Harari "Homo Deus: A Brief History of Tomorrow" (PL: "Homo Deus. Krótka historia jutra") 16.04.2023.
+14. Remigiusz Mróz "Kabalista" (PL) 20.04.2023.
+15. Brandon Sanderson "Tress of the Emerald Sea" (PL: "Warkocz ze Szmaragdowego Morza") 30.04.2023.
+16. S. A. Chakraborty "The City of Brass" (PL: "Miasto Mosiądzu") 11.05.2023.
+17. Katarzyna Michalczak "Synu, jesteś kotem" (PL) 13.05.2022.
+18. Janek Świtała "Polski SOR" (PL) 21.05.2023.
+19. S. A. Chakraborty "The Kingdom of Copper" (PL: "Królestwo Miedzi") 29.05.2023.
+20. S. A. Chakraborty "The Empire of Gold" (PL: "Imperium Złota") 12.06.2023.
+21. Sanaka Hiiragi "人生写真館の奇跡" (EN: "The memory photographers aka The lantern of lost memories", PL: "Fotograf utraconych wspomnień") 13.06.2023.
+22. T. Kingfisher "Nettle & Bone" (PL: "Pokrzywa i kość") 05.07.2023.
+23. Barbara Oakley "A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)" (PL: "Głowa do liczb") 10.07.2023.
+24. Marcin Mortka "Widmowy zagon" (PL) 23.07.2023.
+25 Joanna W. Gajzler "Necrovet. Usługi weterynaryjno-nekromantyczne" (PL) 01.08.2023.
+
+In progress:
+
+- Marcus Aurelius Τὰ εἰς ἑαυτόν (EN: "Meditations", PL: "Rozmyślania (do siebie samego)")
+- Janusz Głowacki "Z głowy" (PL)
+- Szymon Drejewicz "Zrozumieć BPMN" (PL)
+- Brian P. Morran, Michael Lennington "The 12 week year" (PL: "12-tygodniowy rok")
+
 ## 2022
 
 1. Angus Watson "The Land You Never Leave" (PL: "Ziemi tej nie opuścisz") 10.01.2022.
@@ -58,8 +93,13 @@ One day I asked myself a question - how many books do I read during the year? I 
 47. Marcin Łokciewicz "Zamek rządzi" (PL) 11.11.2022.
 48. Anna Kurek "Szczęśliwy jak łosoś" (PL) 17.11.2022.
 49. Witold Jurasz "Demony Rosji" (PL) 21.11.2022.
-50. James Clear "Atomic Habits" (PL: "Atomowe nawyki")
-51. Szymon Drejewicz "Zrozumieć BPMN" (PL)
+50. James Clear "Atomic Habits" (PL: "Atomowe nawyki") 29.11.2022.
+51. Grzegorz Gajek "Piast" (PL) 08.12.2022.
+52. Tomasz Awłasewicz "Niewidzialni. Największa tajemnica służb specjalnych PRL" (PL) 13.12.2022.
+53. Marek S. Huberath "Druga podobizna w alabastrze" (PL) 14.12.2022.
+54. Toshikazu Kawaguchi "Before the Coffee Gets Cold" (PL: "Zanim wystygnie kawa", JP: コーヒーが冷めないうちに "Kohi ga Samenai Uchi ni") 17.12.2022.
+55. Marcin Mortka "Mroźny szlak" (PL) 25.12.2022.
+56. Marcin Mortka "Martwe Jezioro" (PL) 30.12.2022.
 
 *) I've read this book one chapter a day
 
@@ -215,32 +255,32 @@ One day I asked myself a question - how many books do I read during the year? I 
 33. Jeppe Hedaa "Nucleon" 12.12.2018.
 34. Dan Elloway "Xenophobe's guide to the Norwegians" 18.12.2018.
 
-{{< tweet 1075463865809416192 >}}
-{{< tweet 1069667631878299653 >}}
-{{< tweet 1065699012622336001 >}}
-{{< tweet 1064611522129944577 >}}
-{{< tweet 1060468597724798976 >}}
-{{< tweet 1050428360755699718 >}}
-{{< tweet 1045756346434506752 >}}
-{{< tweet 1042491629012172801 >}}
-{{< tweet 1040648543244050437 >}}
-{{< tweet 1037542210995150848 >}}
-{{< tweet 1032823513613258753 >}}
-{{< tweet 1031187404282060800 >}}
-{{< tweet 1028338519926865920 >}}
-{{< tweet 1025434960193363968 >}}
-{{< tweet 1024857841138651136 >}}
-{{< tweet 1023463948568457216 >}}
-{{< tweet 1019621902908784641 >}}
-{{< tweet 1017446621603393536 >}}
-{{< tweet 1015280826555215872 >}}
-{{< tweet 1014189799316639744 >}}
-{{< tweet 1005367453227143168 >}}
-{{< tweet 1002080274522492928 >}}
-{{< tweet 987379080734625792 >}}
-{{< tweet 985930916160786432 >}}
-{{< tweet 984296647034376192 >}}
-{{< tweet 979772690771869696 >}}
-{{< tweet 972188966584766464 >}}
-{{< tweet 970017225146068993 >}}
-{{< tweet 964408732481331201 >}}
+{{< tweet user="BartekR" id="1075463865809416192" >}}
+{{< tweet user="BartekR" id="1069667631878299653" >}}
+{{< tweet user="BartekR" id="1065699012622336001" >}}
+{{< tweet user="BartekR" id="1064611522129944577" >}}
+{{< tweet user="BartekR" id="1060468597724798976" >}}
+{{< tweet user="BartekR" id="1050428360755699718" >}}
+{{< tweet user="BartekR" id="1045756346434506752" >}}
+{{< tweet user="BartekR" id="1042491629012172801" >}}
+{{< tweet user="BartekR" id="1040648543244050437" >}}
+{{< tweet user="BartekR" id="1037542210995150848" >}}
+{{< tweet user="BartekR" id="1032823513613258753" >}}
+{{< tweet user="BartekR" id="1031187404282060800" >}}
+{{< tweet user="BartekR" id="1028338519926865920" >}}
+{{< tweet user="BartekR" id="1025434960193363968" >}}
+{{< tweet user="BartekR" id="1024857841138651136" >}}
+{{< tweet user="BartekR" id="1023463948568457216" >}}
+{{< tweet user="BartekR" id="1019621902908784641" >}}
+{{< tweet user="BartekR" id="1017446621603393536" >}}
+{{< tweet user="BartekR" id="1015280826555215872" >}}
+{{< tweet user="BartekR" id="1014189799316639744" >}}
+{{< tweet user="BartekR" id="1005367453227143168" >}}
+{{< tweet user="BartekR" id="1002080274522492928" >}}
+{{< tweet user="BartekR" id="987379080734625792" >}}
+{{< tweet user="BartekR" id="985930916160786432" >}}
+{{< tweet user="BartekR" id="984296647034376192" >}}
+{{< tweet user="BartekR" id="979772690771869696" >}}
+{{< tweet user="BartekR" id="972188966584766464" >}}
+{{< tweet user="BartekR" id="970017225146068993" >}}
+{{< tweet user="BartekR" id="964408732481331201" >}}
