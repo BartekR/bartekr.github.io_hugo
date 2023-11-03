@@ -36,10 +36,18 @@ One day I asked myself a question - how many books do I read during the year? I 
 25. Joanna W. Gajzler "Necrovet. Usługi weterynaryjno-nekromantyczne" (PL) 01.08.2023.
 26. Marcus Aurelius Τὰ εἰς ἑαυτόν (EN: "Meditations", PL: "Rozmyślania (do siebie samego)") 07.08.2023.
 27. Janusz Głowacki "Z głowy" (PL) 18.08.2023.
+28. Brandon Sanderson "The Frugal Wizard's Handbook for Surviving Medieval England" (PL: "Oszczędnego czarodzieja poradnik przetrwania w średniowiecznej Anglii") 21.08.2023.
+29. Janina Bąk "Statystycznie rzecz biorąc" (PL) 27.08.2023.
+30. Rafał Kosik "Mars" (PL) 01.09.2023.
+31. Agnieszka Kozak "Nastolatek potrzebuje wsparcia" (PL) 11.09.2023.
+32. Travis Baldree "Legends & Lattes. A Novel of High Fantasy and Low Stakes" (PL: "Legendy & Latte. Heroiczna opowieść o sprawach przyziemnych") 16.09.2023.
+33. Mitchell Hogan "A Crucible of Souls" (PL: "Tygiel dusz") 28.09.2023.
+34. Mitchell Hogan "Blood of Innocents" (PL: "Krew niewinnych") 08.10.2023.
+35. Mitchell Hogan "A Shattered Empire" (PL: "Rozbite Imperium") 23.10.2023.
+36. Brandon Sanderson "Yumi and the Nightmare Painter" (PL: "Yumi i malarz koszmarów") 31.10.2023.
 
 In progress:
 
-- Brandon Sanderson "The Frugal Wizard's Handbook for Surviving Medieval England" (PL: "Oszczędnego czarodzieja poradnik przetrwania w średniowiecznej Anglii")
 - Szymon Drejewicz "Zrozumieć BPMN" (PL)
 - Brian P. Morran, Michael Lennington "The 12 week year" (PL: "12-tygodniowy rok")
 
