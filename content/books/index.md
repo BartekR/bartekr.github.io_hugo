@@ -45,11 +45,18 @@ One day I asked myself a question - how many books do I read during the year? I 
 34. Mitchell Hogan "Blood of Innocents" (PL: "Krew niewinnych") 08.10.2023.
 35. Mitchell Hogan "A Shattered Empire" (PL: "Rozbite Imperium") 23.10.2023.
 36. Brandon Sanderson "Yumi and the Nightmare Painter" (PL: "Yumi i malarz koszmarów") 31.10.2023.
+37. Kamil Dziubka "Kulisy PiS" (PL)  05.11.2023.
+38. Remigiusz Mróz "Widmo Brockenu" (PL) 12.11.2023.
+39. Travis Baldree "Bookshops & Bonedust" (PL: "Księgarnie i Kościopył) 18.11.2023.
+40. David Goggins "Can't Hurt Me: Master Your Mind and Defy the Odds" (PL: "Nic mnie nie złamie. Zapanuj nad swoim umysłem i pokonaj przeciwności losu") 30.11.2023.
+41. Toshikazu Kawaguchi "Before the Coffee Gets Cold. Tales from the Cafe" (PL: "Zanim wystygnie kawa. Opowieści z kawiarni") 03.12.2023.
 
-In progress:
+In progress, in the background:
 
 - Szymon Drejewicz "Zrozumieć BPMN" (PL)
 - Brian P. Morran, Michael Lennington "The 12 week year" (PL: "12-tygodniowy rok")
+- Kai-Fu Lee, Chen Qiufan "AI 2041: Ten Visions for Our Future" (PL: "Sztuczna inteligencja 2041. 10 wizji przyszłości")
+- Krzysztof Kościelski "Ego" (PL)
 
 ## 2022
 
