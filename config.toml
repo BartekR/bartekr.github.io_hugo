@@ -23,8 +23,8 @@ paginate = 10
   favicon = "/favicon.ico"
 
   [params.footer]
-    since = 2020
-    customText = ""
+    since = 2017
+    customText = "(c) Bartosz Ratajczyk"
 
   [params.dateFormat]
     published = "Jan 02, 2006"
@@ -44,11 +44,15 @@ paginate = 10
     math = false
     toc = true
     readingTime = true
-    showSummary = true
-    summaryLength = 70
 
   [params.comments]
-    enabled = false
+    enabled = true
+    provider = "utterances"
+
+    [comments.utterances]
+      repo = "BartekR/bartekr.github.io"
+      issueTerm = "url"
+      label = "blog-comment"
 
   [params.widgets]
     homepage = [
