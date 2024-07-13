@@ -36,8 +36,8 @@ One day I asked myself a question - how many books do I read during the year? I 
 26. Paweł Kopijer "Czempion Semaela" (PL) 13.06.2024.
 27. Paweł Kopijer "Sploty przeznaczenia" (PL) 19.06.2024.
 28. T. Kingfisher "Thornhedge" (PL: "Cierń) 21.06.2024.
-29. A. C. Cobble "Dark Territory" (PL: "Wogie terytorium") 28.06.2024.
-30. A. C. Cobble "Empty Horizon" (PL: "Pusty horyzont") 10.06.2024.
+29. A. C. Cobble "Dark Territory" (PL: "Wrogie terytorium") 28.06.2024.
+30. A. C. Cobble "Empty Horizon" (PL: "Pusty horyzont") 10.07.2024.
 31. William Zinsser "Writing to learn"
 32. Michael J. Sullivan "Age of War" (PL: "Epoka wojny")
 
