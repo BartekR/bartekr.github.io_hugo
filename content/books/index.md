@@ -7,12 +7,50 @@ layout: about
 
 One day I asked myself a question - how many books do I read during the year? I assume it's about 40, but wanted to check it. So for the year 2018, I started writing down the books I read. I published it on twitter, but some books took me quite some time to finish (like ~1000 pages "The Way Of Kings" by Brandon Sanderson), and I forgot the numbers. So - besides publishing on twitter, I began writing down right here. The dates (when I finished reading the book) start from #4 in 2018, as I started to pay attention to them.
 
+## 2024
+
+1. Michael J. Sullivan "Age of Myth" (PL: "Epoka Mitu") 02.01.2024.
+2. Toshikazu Kawaguchi (PL: "Zanim wyblakną wspomnienia") 10.01.2024.
+3. Michael J. Sullivan "Age of Swords" (PL: "Epoka Mieczy") 25.01.2024.
+4. Marcin Mortka "Pas Ilmarinena" (PL) 02.02.2024.
+5. Jordan Akpojaro, Rachel Firth, Minna Lacey "Philosophy for Beginners" (PL: "Filozofia dla początkujących") 03.02.2024.
+6. Joanna W. Gajzler "Necrovet. Metody leczenia drakonidów" (PL) 09.02.2024.
+7. Radomir Wit "Sejm Wita" (PL) 13.02.2024.
+8. Remigiusz Mróz "Operacja Mir" (PL) 21.02.2024.
+9. Jakub Sieczko "Pogo" (PL) 26.02.2024.
+10. Janina Bąk "Statystycznie rzecz biorąc 2" (PL) 09.03.2024.
+11. Nir Eyal "Hooked: How to Build Habit-Forming Products" (PL: "Skuszeni") 18.03.2024.
+12. Elżbieta Cherezińska "Północna Droga. Saga Sigrun" 19.03.2024.
+13. Krzysztof Kościelski "Ego" (PL) 25.03.2024.
+14. Jack Welch "Winning" (PL: "Winning znaczy zwyciężać") 29.03.2024.
+15. Olga Gitkiewicz "Nie zdążę" (PL) 03.04.2024.
+16. Brandon Sanderson "Sunlit Man" (PL: "Słoneczny mąż") 10.04.2024.
+17. A. C. Cobble "Benjamin Ashwood" (PL: "Beniamin Ashwood") 19.04.2024.
+18. Remigiusz Mróz "Paderborn" (PL) 25.04.2024.
+19. Klaudia Fryc-Mallick "Masala @ work. Przewodnik po współpracy z Indusami" (PL) 04.05.2024.
+20. A. C. Cobble "Endless Flight" (PL: "Nieustanna ucieczka") 13.05.2024.
+21. Ray Nayler "The Mountain in the Sea" (PL: "Góra pod morzem") 22.05.2024.
+23. Remigiusz Mróz "Berdo" (PL) 28.05.2024.
+24. Marta Kisiel "Mała draka w fińskiej dzielnicy (PL) 01.06.2024.
+25. Paweł Kopijer "Mrok we krwi" (PL) 09.06.2024.
+26. Paweł Kopijer "Czempion Semaela" (PL) 13.06.2024.
+27. Paweł Kopijer "Sploty przeznaczenia" (PL) 19.06.2024.
+28. T. Kingfisher "Thornhedge" (PL: "Cierń) 21.06.2024.
+29. A. C. Cobble "Dark Territory" (PL: "Wogie terytorium") 28.06.2024.
+30. A. C. Cobble "Empty Horizon" (PL: "Pusty horyzont") 10.06.2024.
+31. William Zinsser "Writing to learn"
+32. Michael J. Sullivan "Age of War" (PL: "Epoka wojny")
+
+In progress, in the background:
+
+- Szymon Drejewicz "Zrozumieć BPMN" (PL)
+
 ## 2023
 
 1. Marcin Mortka "Druga Burza" (PL) 07.01.2023.
 2. Marcin Mortka "Utracona Godzina" (PL) 12.01.2023.
 3. Marcin Mortka "Skrzynia pełna dusz" (PL) 18.01.2023.
-4. Brandon Sanderson "The Alloy of Law" (PL: "Stop prawa") 23.01.2023
+4. Brandon Sanderson "The Alloy of Law" (PL: "Stop prawa") 23.01.2023.
 5. Brandon Sanderson "Shadows of Self" (PL: "Cienie tożsamości") 02.02.2023.
 6. Brandon Sanderson "The Bands of Mourning" (PL: "Żałobne opaski") 12.02.2023.
 7. Maria Peszek "Nakurwiam Zen" (PL) 15.02.2023.
@@ -50,13 +88,8 @@ One day I asked myself a question - how many books do I read during the year? I 
 39. Travis Baldree "Bookshops & Bonedust" (PL: "Księgarnie i Kościopył) 18.11.2023.
 40. David Goggins "Can't Hurt Me: Master Your Mind and Defy the Odds" (PL: "Nic mnie nie złamie. Zapanuj nad swoim umysłem i pokonaj przeciwności losu") 30.11.2023.
 41. Toshikazu Kawaguchi "Before the Coffee Gets Cold. Tales from the Cafe" (PL: "Zanim wystygnie kawa. Opowieści z kawiarni") 03.12.2023.
-
-In progress, in the background:
-
-- Szymon Drejewicz "Zrozumieć BPMN" (PL)
-- Brian P. Morran, Michael Lennington "The 12 week year" (PL: "12-tygodniowy rok")
-- Kai-Fu Lee, Chen Qiufan "AI 2041: Ten Visions for Our Future" (PL: "Sztuczna inteligencja 2041. 10 wizji przyszłości")
-- Krzysztof Kościelski "Ego" (PL)
+42. Rafał Kosik "Różaniec" (PL) 15.12.2023.
+43. Remigiusz Mróz "Langer" (PL) 23.12.2023.
 
 ## 2022
 
