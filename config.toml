@@ -1,137 +1,144 @@
 baseURL = "https://blog.bartekr.net/"
 languageCode = "en-gb"
 title = "BartekR"
-theme = "hugo-future-imperfect-slim"
+theme = "hugo-theme-stack"
 DefaultContentLanguage = "en"
 paginate = 10
-googleAnalytics         = "UA-109318393-1"
 
 [permalinks]
   post = ":year/:month/:day/:title"
 
 [outputs]
-  home                  = ["html", "json", "rss"]
+  home = ["html", "json", "rss"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
 
 [params]
-
-  cssFiles              = ["default"]
-  jsFiles               = ["default"]
-
-  # Sets where "View More Posts" links to
-  viewMorePostsLink     = "/post/"
-
-  highlightjs           = true
-  highlightjsTheme      = "vs2015"
-  highlightjsLang       = ["powershell", "csharp"]
-  
-  [params.meta]
-    description         = "BartekR blog. Previously known as String or binary data would be truncated"
-    author              = "BartekR"
-    favicon             = false
-    svg                 = true
-
-  [params.header]
-    # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "BartekR blog"
-    # Sets navbarTitle to match the section of the website
-    dynamicTitles       = false
-    searchMenu          = true
-    shareMenu           = false
-    languageMenu        = true
-
-  [params.intro]
-    header                = "BartekR"
-    paragraph             = "SQL Server. SSIS. PowerShell. Azure.<br/>1 wife. 1 kid. 5 dogs. 10 cats."
-    rssIntro              = true
-    socialIntro           = true
-    # You may not want to display a long intro above content in the
-    # single column layout used on smaller screens.
-    hideWhenSingleColumn  = true
-    # But you may want to always display the intro on the homepage.
-    alwaysOnHomepage      = false
-
-    [params.intro.pic]
-      src                 = "/img/main/Bartek_SqlSatOslo2019_100x100.png"
-      # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = "circle"
-      width               = "100"
-      alt                 = "BartekR profile pic"
-
-  [params.sidebar]
-    about               = "Posts about SQL Server, SSIS and automation for my future self, but you might find something useful."
-    postAmount          = 5
-    categories          = true
-    categoriesByCount   = true
+  mainSections = ["post"]
+  featuredImageField = "image"
+  rssFullContent = true
+  favicon = "/favicon.ico"
 
   [params.footer]
-    rssFooter           = true
-    socialFooter        = true
+    since = 2020
+    customText = ""
 
-  [params.staticman]
-    enabled             = false
-    api                 = ""  # No Trailing Slash
-    gitProvider         = ""
-    username            = ""
-    repo                = ""
-    branch              = ""
+  [params.dateFormat]
+    published = "Jan 02, 2006"
+    lastUpdated = "Jan 02, 2006 15:04 MST"
 
-    [params.staticman.recaptcha]
-      siteKey           = ""
-      encryptedKey      = ""
+  [params.sidebar]
+    compact = true
+    subtitle = "SQL Server. SSIS. PowerShell. Azure.<br />1 wife. 1 kid. 5 dogs. 10 cats."
+
+    [params.sidebar.avatar]
+      enabled = true
+      local = true
+      src = "/img/Bartek_SqlSatOslo2019_100x100.png"
+
+  [params.article]
+    headingAnchor = false
+    math = false
+    toc = true
+    readingTime = true
+    showSummary = true
+    summaryLength = 70
+
+  [params.comments]
+    enabled = false
+
+  [params.widgets]
+    homepage = [
+      { type = "search" },
+      { type = "archives", params = { limit = 5 } },
+      { type = "categories", params = { limit = 20 } },
+      { type = "tag-cloud", params = { limit = 20 } }
+    ]
+    page = [
+      { type = "toc" }
+    ]
+
+  [[params.social]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/b_ratajczyk"
+    params = { icon = "brand-twitter" }
+
+  [[params.social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/BartekR"
+    params = { icon = "brand-github" }
+
+  [[params.social]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/bartoszratajczyk"
+    params = { icon = "brand-linkedin" }
+
+  [[params.social]]
+    identifier = "mastodon"
+    name = "Mastodon"
+    url = "https://dataplatform.social/@b_ratajczyk"
+    params = { icon = "brand-mastodon" }
 
 [menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
 
   [[menu.main]]
-    name              = "About"
-    identifier        = "about"
-    url               = "/about"
-    pre               = "<i class='far fa-id-card'></i>"
-    weight            = 1
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 2
 
   [[menu.main]]
-    name              = "Blog [PL]"
-    identifier        = "blogpl"
-    url               = "https://brinf.wordpress.com"
-    pre               = "<i class='fab fa-wordpress'></i>"
-    weight            = 2
+    identifier = "blogpl"
+    name = "Blog [PL]"
+    url = "https://brinf.wordpress.com"
+    weight = 3
 
   [[menu.main]]
-    name              = "Series"
-    identifier        = "series"
-    url               = "/series"
-    pre               = "<i class='fas fa-newspaper'></i>"
-    weight            = 3
+    identifier = "series"
+    name = "Series"
+    url = "/series"
+    weight = 4
 
   [[menu.main]]
-    name              = "Books"
-    identifier        = "books"
-    url               = "/books"
-    pre               = "<i class='fas fa-book-reader'></i>"
-    weight            = 4
+    identifier = "books"
+    name = "Books"
+    url = "/books"
+    weight = 5
 
   [[menu.main]]
-    name              = "Speaking"
-    identifier        = "speaking"
-    url               = "/speaking"
-    pre               = "<i class='fas fa-microphone-alt'></i>"
-    weight            = 5
+    identifier = "speaking"
+    name = "Speaking"
+    url = "/speaking"
+    weight = 6
 
   [[menu.main]]
-    name              = "Categories"
-    identifier        = "categories"
-    url               = "/categories"
-    pre               = "<i class='fas fa-object-group'></i>"
-    weight            = 6
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories"
+    weight = 7
 
   [[menu.main]]
-    name              = "Tags"
-    identifier        = "tags"
-    url               = "/tags"
-    pre               = "<i class='fas fa-tag'></i>"
-    weight            = 7
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 8
 
-[social]
-twitter = "b_ratajczyk"
-github = "BartekR"
-linkedin = "bartoszratajczyk"
-mastodon = "dataplatform.social/@b_ratajczyk"
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search"
+    weight = 9
+
+[markup.highlight]
+  noClasses = false

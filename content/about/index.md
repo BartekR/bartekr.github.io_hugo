@@ -2,7 +2,7 @@
 title: 'About'
 date: Sun, 16 Apr 2017 21:11:43 +0000
 draft: false
-layout: about
+type: page
 ---
 
 {{< figure src="/img/main/Bartek_SqlSatOslo2019_500x500.png#center" caption="photo: Rodney Kidd, SQL Saturday Oslo 2019" class="noborder" >}}

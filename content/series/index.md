@@ -2,7 +2,7 @@
 title: 'Series'
 date: 2018-03-17
 draft: false
-layout: about
+type: page
 ---
 
 Some of the posts on this blog are the series about one subject. There are:

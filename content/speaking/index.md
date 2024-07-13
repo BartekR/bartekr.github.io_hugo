@@ -1,7 +1,7 @@
 ---
 title: 'Speaking'
 draft: false
-layout: about
+type: page
 ---
 
 ## (work in progress)

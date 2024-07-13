@@ -1,2 +1,11 @@
+# local work in progress files
 .workInProgress
+
+# Hugo default output directory
+/public/
+
+# Hugo generated resources directory
+/resources/
+
+# Hugo lock file
 .hugo_build.lock

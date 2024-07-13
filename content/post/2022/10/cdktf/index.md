@@ -2,7 +2,8 @@
 title: "Build your SQL Server VM using CdkTf" # Title of the blog post.
 date: 2022-10-31 # Date of post creation.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
-toc: false # Controls if a table of contents should be generated for first-level links automatically.
+toc: true # Controls if a table of contents should be generated for first-level links automatically.
+image : "2022/10/31/build-your-sql-server-vm-using-cdktf/images/cdktf.help.png"
 images:
   - src: "2022/10/31/build-your-sql-server-vm-using-cdktf/images/cdktf.help.png"
     alt: ""
