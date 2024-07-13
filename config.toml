@@ -32,7 +32,7 @@ paginate = 10
 
   [params.sidebar]
     compact = true
-    subtitle = "SQL Server. SSIS. PowerShell. Azure.<br />1 wife. 1 kid. 5 dogs. 10 cats."
+    subtitle = "Azure. PowerShell. SQL. DevOps.<br />1 wife. 1 kid. 4 dogs. 9 cats."
 
     [params.sidebar.avatar]
       enabled = true
@@ -49,7 +49,7 @@ paginate = 10
     enabled = true
     provider = "utterances"
 
-    [comments.utterances]
+    [params.comments.utterances]
       repo = "BartekR/bartekr.github.io"
       issueTerm = "url"
       label = "blog-comment"
