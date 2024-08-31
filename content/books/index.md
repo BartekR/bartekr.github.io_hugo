@@ -30,16 +30,23 @@ One day I asked myself a question - how many books do I read during the year? I 
 19. Klaudia Fryc-Mallick "Masala @ work. Przewodnik po współpracy z Indusami" (PL) 04.05.2024.
 20. A. C. Cobble "Endless Flight" (PL: "Nieustanna ucieczka") 13.05.2024.
 21. Ray Nayler "The Mountain in the Sea" (PL: "Góra pod morzem") 22.05.2024.
-23. Remigiusz Mróz "Berdo" (PL) 28.05.2024.
-24. Marta Kisiel "Mała draka w fińskiej dzielnicy (PL) 01.06.2024.
-25. Paweł Kopijer "Mrok we krwi" (PL) 09.06.2024.
-26. Paweł Kopijer "Czempion Semaela" (PL) 13.06.2024.
-27. Paweł Kopijer "Sploty przeznaczenia" (PL) 19.06.2024.
-28. T. Kingfisher "Thornhedge" (PL: "Cierń) 21.06.2024.
-29. A. C. Cobble "Dark Territory" (PL: "Wrogie terytorium") 28.06.2024.
-30. A. C. Cobble "Empty Horizon" (PL: "Pusty horyzont") 10.07.2024.
-31. William Zinsser "Writing to learn"
-32. Michael J. Sullivan "Age of War" (PL: "Epoka wojny")
+22. Remigiusz Mróz "Berdo" (PL) 28.05.2024.
+23. Marta Kisiel "Mała draka w fińskiej dzielnicy (PL) 01.06.2024.
+24. Paweł Kopijer "Mrok we krwi" (PL) 09.06.2024.
+25. Paweł Kopijer "Czempion Semaela" (PL) 13.06.2024.
+26. Paweł Kopijer "Sploty przeznaczenia" (PL) 19.06.2024.
+27. T. Kingfisher "Thornhedge" (PL: "Cierń) 21.06.2024.
+28. A. C. Cobble "Dark Territory" (PL: "Wrogie terytorium") 28.06.2024.
+29. A. C. Cobble "Empty Horizon" (PL: "Pusty horyzont") 10.07.2024.
+30. Michael J. Sullivan "Age of War" (PL: "Epoka wojny") 23.07.2024.
+31. Becky Chambers "A Psalm for the Wild-Built" (PL: "Psalm dla zbudowanych w dziczy") 26.07.2024.
+32. William Zinsser "Writing to learn" 06.08.2024.
+33. Przemysław Duda "Miecze i słowa (PL) 10.08.2024.
+34. Janusz Stankiewicz "Gorath. Uderz pierwszy" (PL) 14.08.2024.
+35. Janusz Stankiewicz "Gorath. Krawędź Otchłani" (PL) 21.08.2024.
+36. Franciszek M. Piątkowski "Powiernik" (PL) 26.08.2024.
+37. Franciszek M. Piątkowski "Widzący" (PL) 28.08.2024.
+38. Franciszek M. Piątkowski "Obrońcy" (PL)
 
 In progress, in the background:
 
