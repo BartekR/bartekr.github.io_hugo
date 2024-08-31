@@ -32,7 +32,7 @@ paginate = 10
 
   [params.sidebar]
     compact = true
-    subtitle = "Azure. PowerShell. SQL. DevOps.<br />1 wife. 1 kid. 4 dogs. 9 cats."
+    subtitle = "Azure. PowerShell. SQL. DevOps.<br />1 wife. 1 kid. 4 dogs. 5 cats."
 
     [params.sidebar.avatar]
       enabled = true
@@ -104,7 +104,7 @@ paginate = 10
 
   [[menu.main]]
     identifier = "blogpl"
-    name = "Blog [PL]"
+    name = "Old blog [PL]"
     url = "https://brinf.wordpress.com"
     weight = 3
 
