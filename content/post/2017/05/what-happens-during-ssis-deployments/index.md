@@ -2,10 +2,7 @@
 title: "What happens during SSIS deployments?"
 date: "2017-05-03"
 draft: false
-images:
-  - src: "2017/05/03/what-happens-during-ssis-deployments/images/internal.get_project_internal.png"
-    alt: ""
-    stretch: ""
+image: "2017/05/03/what-happens-during-ssis-deployments/images/internal.get_project_internal.png"
 tags: ['internals', 'IsDeploymentWizard', 'ISServerExec', 'SSIS']
 categories: ['SSIS internals']
 ---
@@ -209,7 +206,7 @@ When I run the steps 3, 4, 5 I got those results (pivoted for better readability
 |OperationCleanupEnabled|1|
 |VersionCleanupEnabled|1|
 |ServerLoggingLevel|1|
-|ServerCustomizedLoggingLevel|
+|ServerCustomizedLoggingLevel||
 
 | |Step 4|
 |-|------|

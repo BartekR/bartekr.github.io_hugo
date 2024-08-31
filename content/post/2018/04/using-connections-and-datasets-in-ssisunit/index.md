@@ -2,13 +2,9 @@
 title: "Using Connections and Datasets in ssisUnit"
 date: "2018-04-30"
 draft: false
-images:
-  - src: "2018/04/30/using-connections-and-datasets-in-ssisunit/images/Dataset.png"
-    alt: ""
-    stretch: ""
+image: "2018/04/30/using-connections-and-datasets-in-ssisunit/images/Dataset.png"
 categories: ['Series', 'Testing', 'Learning']
 tags: ['SSIS', 'ssisUnit']
-coverImage: "Dataset.png"
 ---
 
 One of the elements you can define in ssisUnit is a Dataset. In this post of the [ssisUnit series](http://blog.bartekr.net/series/), I will show you how to prepare and use it later in a test.

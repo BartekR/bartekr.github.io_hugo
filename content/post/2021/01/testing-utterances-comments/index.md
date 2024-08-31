@@ -3,10 +3,7 @@ title: "Testing Utterances Comments" # Title of the blog post.
 date: "2021-01-17" # Date of post creation.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
-images:
-  - src: "2021/01/17/testing-utterances-comments/images/utterances.png"
-    alt: ""
-    stretch: ""
+image: "2021/01/17/testing-utterances-comments/images/utterances.png"
 tags: ['Hugo', 'Comments']
 categories: ['Admin']
 ---

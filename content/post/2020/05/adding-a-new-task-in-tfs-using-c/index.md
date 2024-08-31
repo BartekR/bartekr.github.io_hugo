@@ -2,10 +2,7 @@
 title: "Adding a new Task in TFS using C#"
 date: "2020-05-04"
 draft: false
-images:
-  - src: "2020/05/04/adding-a-new-task-in-tfs-using-c/images/tbl_Field.png"
-    alt: ""
-    stretch: ""
+image: "2020/05/04/adding-a-new-task-in-tfs-using-c/images/tbl_Field.png"
 tags: ['C#', 'TFS']
 categories: ['Programming']
 ---

@@ -2,13 +2,9 @@
 title: "What's new in ssisUnit?"
 date: "2018-09-12"
 draft: false
-images:
-  - src: "2018/09/12/whats-new-in-ssisunit/images/ProjectConnectionStringSetup.png"
-    alt: ""
-    stretch: ""
+image: "2018/09/12/whats-new-in-ssisunit/images/ProjectConnectionStringSetup.png"
 categories: ['Testing']
 tags: ['ssisUnit']
-coverImage: "ProjectConnectionStringSetup.png"
 ---
 
 ssisUnit has a stable version for SSIS 2005 - 2014. [It didn't change much since August 2014](https://github.com/johnwelch/ssisUnit/commits?author=johnwelch), until August 2017. Then [my Pull Request](https://github.com/johnwelch/ssisUnit/pull/1) was merged, and it added some new functionality for ssisUnit.

@@ -2,11 +2,7 @@
 title: "Upgrading SSIS projects, part II"
 date: "2018-02-04"
 draft: false
-images:
-  - src: "2018/02/04/upgrading-ssis-projects-part-ii/images/Debugging.png"
-    alt: ""
-    stretch: ""
-coverImage: "Debugging.png"
+image: "2018/02/04/upgrading-ssis-projects-part-ii/images/Debugging.png"
 tags: ['migration', 'SSIS', 'SSIS internals']
 categories: ['internals']
 ---

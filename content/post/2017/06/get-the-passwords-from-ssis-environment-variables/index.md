@@ -2,10 +2,7 @@
 title: "Get the passwords from SSIS Environment variables"
 date: "2017-06-11"
 draft: false
-images:
-  - src: "/2017/06/11/get-the-passwords-from-ssis-environment-variables/images/EncrypteVariablesInEnvironment.png"
-    alt: ""
-    stretch: ""
+image: "/2017/06/11/get-the-passwords-from-ssis-environment-variables/images/EncrypteVariablesInEnvironment.png"
 tags: ['encryption', 'internals', 'SSIS']
 categories: ['SSIS internals']
 ---

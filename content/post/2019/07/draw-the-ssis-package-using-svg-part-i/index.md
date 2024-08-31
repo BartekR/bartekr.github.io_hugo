@@ -2,10 +2,7 @@
 title: "Draw the SSIS package using SVG - part I"
 date: "2019-07-08"
 draft: false
-images:
-  - src: "2019/07/08/draw-the-ssis-package-using-svg-part-i/images/DTS_DesignTimeProperties.png"
-    alt: ""
-    stretch: ""
+image: "2019/07/08/draw-the-ssis-package-using-svg-part-i/images/DTS_DesignTimeProperties.png"
 tags: ['SSIS', 'SVG', 'XML', 'XSLT']
 categories: ['Learning', 'Series']
 ---

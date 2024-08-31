@@ -2,13 +2,9 @@
 title: "Writing ssisUnit test using API"
 date: "2018-08-13"
 draft: false
-images:
-  - src: "2018/08/13/writing-ssisunit-test-using-api/images/ssisUnitAPI.png"
-    alt: ""
-    stretch: ""
+image: "2018/08/13/writing-ssisunit-test-using-api/images/ssisUnitAPI.png"
 categories: ['Series', 'Testing', 'Learning']
 tags: ['MSTest', 'SSIS', 'ssisUnit']
-coverImage: "ssisUnitAPI.png"
 ---
 
 In [the post about using MSTest framework to execute ssisUnit tests](http://blog.bartekr.net/2018/06/15/executing-ssisunit-tests-in-mstest-framework/), I used parts of the ssisUnit API model. If you want, you can write all your tests using this model, and this post will guide you through the first steps. I will show you how to write one of the previously prepared XML tests using C# and (again) MSTest.

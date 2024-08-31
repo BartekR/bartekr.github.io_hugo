@@ -4,10 +4,6 @@ date: 2023-08-05 # Date of post creation.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: true # Controls if a table of contents should be generated for first-level links automatically.
 image: "2023/08/05/terraform-cidr-functions/images/terraform-cidr.png"
-images:
-  - src: "2023/08/05/terraform-cidr-functions/images/terraform-cidr.png"
-    alt: ""
-    stretch: ""
 tags: ['terraform', 'cidr']
 categories: ['IaC']
 ---

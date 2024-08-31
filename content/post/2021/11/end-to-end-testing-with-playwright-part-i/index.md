@@ -3,10 +3,7 @@ title: "End-to-End testing with Playwright, part I" # Title of the blog post.
 date: 2021-11-13 # Date of post creation.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
-images:
-  - src: "2021/11/13/end-to-end-testing-with-playwright-part-i/images/Header.png"
-    alt: ""
-    stretch: ""
+image: "2021/11/13/end-to-end-testing-with-playwright-part-i/images/Header.png"
 tags: ['playwright', 'nunit', 'c#']
 categories: ['testing']
 ---

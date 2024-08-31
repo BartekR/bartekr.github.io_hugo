@@ -2,13 +2,9 @@
 title: "Testing the loops in ssisUnit"
 date: "2018-07-10"
 draft: false
-images:
-  - src: "2018/07/10/testing-the-loops-in-ssisunit/images/TheForLoopTest.png"
-    alt: ""
-    stretch: ""
+image: "2018/07/10/testing-the-loops-in-ssisunit/images/TheForLoopTest.png"
 categories: ['Series', 'Testing', 'Learning']
 tags: ['SSIS', 'ssisUnit']
-coverImage: "TheForLoopTest.png"
 ---
 
 In the [Q & A post](http://agilebi.com/jwelch/2013/04/08/qa-from-unit-tests-for-ssis-packages/) after the webinar on ssisUnit (in 2013) John Welch answered the question about the loops:

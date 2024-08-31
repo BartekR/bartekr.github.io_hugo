@@ -2,13 +2,9 @@
 title: "Executing ssisUnit tests in MSTest framework"
 date: "2018-06-15"
 draft: false
-images:
-  - src: "2018/06/15/executing-ssisunit-tests-in-mstest-framework/images/TFS_TestsDetails.png"
-    alt: ""
-    stretch: ""
+image: "2018/06/15/executing-ssisunit-tests-in-mstest-framework/images/TFS_TestsDetails.png"
 categories: ['Series', 'Testing', 'Learning']
 tags: ['MSTest', 'ssisUnit', 'TFS']
-coverImage: "TFS_TestsDetails.png"
 ---
 
 One of the drawbacks of ssisUnit is that it has only its own test runner. You can run the tests either using GUI or the console application, but the output is not that easy to parse and to present on the report. I'm used to working with Pester output or using NUnit/MSTest frameworks that integrates nicely with other tools. In this post, I will show you how to prepare and execute ssisUnit tests using MSTest framework, how to automate this process, and how to run those tests with TFS (or VSTS).

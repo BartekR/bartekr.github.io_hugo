@@ -2,10 +2,7 @@
 title: "SQLBits 2017"
 date: "2017-04-16"
 draft: false
-images:
-  - src: "/2017/04/16/sqlbits-2017/images/IMG_20170407_085304-1024x575.jpg"
-    alt: ""
-    stretch: ""
+image: "/2017/04/16/sqlbits-2017/images/IMG_20170407_085304-1024x575.jpg"
 tags: ['Sqlbits']
 categories: ['Conferences']
 ---

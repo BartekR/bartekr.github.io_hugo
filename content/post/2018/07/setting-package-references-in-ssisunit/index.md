@@ -2,13 +2,9 @@
 title: "Setting package references in ssisUnit"
 date: "2018-07-05"
 draft: false
-images:
-  - src: "2018/07/05/setting-package-references-in-ssisunit/images/StorageType_MSDB.png"
-    alt: ""
-    stretch: ""
+image: "2018/07/05/setting-package-references-in-ssisunit/images/StorageType_MSDB.png"
 categories: ['Series', 'Testing', 'Learning']
 tags: ['SSIS', 'ssisUnit']
-coverImage: "StorageType_MSDB.png"
 ---
 
 When you set the packages' references in the ssisUnit tests you have four options for the source (_StoragePath_) of the package:

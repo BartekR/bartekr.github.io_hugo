@@ -2,10 +2,7 @@
 title: "Adding a new task in TFS (Azure DevOps) using Excel"
 date: "2020-05-19"
 draft: false
-images:
-  - src: "2020/05/19/adding-a-new-task-in-tfs-azure-devops-using-excel/images/AzureDevOps_TeamPlugin.png"
-    alt: ""
-    stretch: ""
+image: "2020/05/19/adding-a-new-task-in-tfs-azure-devops-using-excel/images/AzureDevOps_TeamPlugin.png"
 tags: ['Azure DevOps', 'Excel']
 categories: ['TFS']
 ---

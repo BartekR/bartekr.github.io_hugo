@@ -2,10 +2,7 @@
 title: "Connect to SQL Server on Ubuntu Linux VirtualBox machine"
 date: "2017-06-28"
 draft: false
-images:
-  - src: "2017/06/28/connect-to-sql-server-on-ubuntu-linux-virtualbox-machine/images/PortForwarding01.png"
-    alt: ""
-    stretch: ""
+image: "2017/06/28/connect-to-sql-server-on-ubuntu-linux-virtualbox-machine/images/PortForwarding01.png"
 tags: ['Linux', 'Ubuntu', 'VirtualBox', 'VM']
 categories: ['SQL Server']
 ---

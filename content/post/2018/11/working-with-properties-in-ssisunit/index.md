@@ -2,13 +2,9 @@
 title: "Working with properties in ssisUnit"
 date: "2018-11-05"
 draft: false
-images:
-  - src: "2018/11/05/working-with-properties-in-ssisunit/images/DFTPropertyCommand.png"
-    alt: ""
-    stretch: ""
+image: "2018/11/05/working-with-properties-in-ssisunit/images/DFTPropertyCommand.png"
 categories: ['Series', 'Testing', 'Learning']
 tags: ['ssisUnit']
-coverImage: "DFTPropertyCommand.png"
 ---
 
 One of the ssisUnit commands is a `PropertyCommand`. It allows you to read or set a property of the task, the package or the project. As of the time of writing - you can't test the properties of the precedence constraints or data flow elements (but you can't currently test data flow at all).

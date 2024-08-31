@@ -2,11 +2,7 @@
 title: "Learning something new: connections in SSIS package"
 date: "2017-06-25"
 draft: false
-images:
-  - src: "2017/06/25/learning-something-new-connections-in-ssis-package/images/DTS_ExecutablesLight.png"
-    alt: ""
-    stretch: ""
-coverImage: "DTS_ExecutablesLight.png"
+image: "2017/06/25/learning-something-new-connections-in-ssis-package/images/DTS_ExecutablesLight.png"
 tags: ['internals', 'SSIS']
 categories: ['Learning', 'SSIS internals']
 ---

@@ -2,10 +2,7 @@
 title: "Have problems with Docker Desktop for Windows Home? Yeah, me too!"
 date: "2020-09-01"
 draft : false
-images:
-  - src: "2020/09/01/have-problems-with-docker-desktop-for-windows-home-yeah-me-too/images/DockerDesktop.png"
-    alt: ""
-    stretch: ""
+image: "2020/09/01/have-problems-with-docker-desktop-for-windows-home-yeah-me-too/images/DockerDesktop.png"
 tags: ['docker', 'docker desktop', 'WSL2']
 categories: ['Troubleshooting']
 ---

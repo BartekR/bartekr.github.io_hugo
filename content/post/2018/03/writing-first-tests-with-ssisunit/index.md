@@ -2,10 +2,7 @@
 title: "Writing first tests with ssisUnit"
 date: "2018-03-26"
 draft: false
-images:
-  - src: "2018/03/19/testing-ssis-projects-with-ssisunit/images/ssisUnit_HeaderImage.png"
-    alt: ""
-    stretch: ""
+image: "2018/03/19/testing-ssis-projects-with-ssisunit/images/ssisUnit_HeaderImage.png"
 categories: ['Learning', 'Series', 'Testing']
 tags: ['SSIS', 'ssisUnit']
 ---

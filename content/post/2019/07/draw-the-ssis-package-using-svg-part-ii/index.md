@@ -2,10 +2,7 @@
 title: "Draw the SSIS Package using SVG - part II"
 date: "2019-07-16"
 draft: false
-images:
-  - src: "2019/07/16/draw-the-ssis-package-using-svg-part-ii/images/BezierCurveCalculations_Header.png"
-    alt: ""
-    stretch: ""
+image: "2019/07/16/draw-the-ssis-package-using-svg-part-ii/images/BezierCurveCalculations_Header.png"
 tags: ['SSIS', 'SVG', 'XML', 'XSLT']
 categories: ['Learning', 'Series']
 ---

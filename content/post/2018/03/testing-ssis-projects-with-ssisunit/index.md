@@ -2,13 +2,9 @@
 title: "Testing SSIS Projects with ssisUnit"
 date: "2018-03-19"
 draft: false
-images:
-  - src: "2018/03/19/testing-ssis-projects-with-ssisunit/images/ssisUnit_HeaderImage.png"
-    alt: ""
-    stretch: ""
+image: "2018/03/19/testing-ssis-projects-with-ssisunit/images/ssisUnit_HeaderImage.png"
 tags: ['SQL Server 2017', 'SSIS', 'ssisUnit']
 categories: ['Learning', 'Series', 'Testing']
-coverImage: "ssisUnit_HeaderImage.png"
 ---
 
 During the upcoming [SQLDay 2018](http://sqlday.pl/en/) conference (10th edition of SQLDay!) I'll be [speaking about testing SSIS packages and projects](https://sqlday.pl/en/session/start-testing-your-ssis-packages/). From my observations, I see that we don't like testing (I'm talking about database and ETL people), but when we start doing it - it becomes a natural part of our work. In my current project, we started slow, with some data quality testing for some parts of the process. Today you can hear "let's write a test for it", and it's just a regular part of the process.

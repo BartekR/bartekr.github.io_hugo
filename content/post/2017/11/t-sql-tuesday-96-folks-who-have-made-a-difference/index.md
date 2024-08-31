@@ -3,11 +3,7 @@ title: "T-SQL Tuesday #96: Folks Who Have Made a Difference"
 url: "2017/11/14/t-sql-tuesday-96-folks-who-have-made-a-difference"
 date: "2017-11-14"
 draft: false
-images:
-  - src: "2017/11/14/t-sql-tuesday-96-folks-who-have-made-a-difference/images/T-SQL-Tuesday-Logo1.jpg"
-    alt: ""
-    stretch: ""
-coverImage: "T-SQL-Tuesday-Logo1.jpg"
+image: "2017/11/14/t-sql-tuesday-96-folks-who-have-made-a-difference/images/T-SQL-Tuesday-Logo1.jpg"
 tags: ['T-SQL Tuesday']
 ---
 

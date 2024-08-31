@@ -2,13 +2,9 @@
 title: "Testing database connections with ssisUnit"
 date: "2018-04-13"
 draft: false
-images:
-  - src: "2018/04/13/testing-database-connections-with-ssisunit/images/PackageOutline.png"
-    alt: ""
-    stretch: ""
+image: "2018/04/13/testing-database-connections-with-ssisunit/images/PackageOutline.png"
 categories: ['Series', 'Testing', 'Learning']
 tags: ['SSIS', 'ssisUnit']
-coverImage: "PackageOutline.png"
 ---
 
 [Previously](http://blog.bartekr.net/2018/03/26/writing-first-tests-with-ssisunit/) we successfully prepared tests for variables and parameters using `VariableCommandand` and `ParameterCommand`. Now it's time to communicate with the database, and for that, I will use connection manager defined on the project level. I know from the ssisUnit tutorials it works perfect with package connection managers, so it's time to verify it against the projects. I will test the package `10_ProjectCM.dtsx` - it is just getting a single value from the table in a database and storing it in a variable. All the packages and unit tests are on [my GitHub](https://github.com/BartekR/ssisUnit).

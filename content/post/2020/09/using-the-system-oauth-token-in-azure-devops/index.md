@@ -2,10 +2,7 @@
 title: "Using the system OAuth token in Azure DevOps"
 date: "2020-09-24"
 draft: false
-images:
-  - src: "2020/09/24/using-the-system-oauth-token-in-azure-devops/images/203Error.png"
-    alt: ""
-    stretch: ""
+image: "2020/09/24/using-the-system-oauth-token-in-azure-devops/images/203Error.png"
 tags: ['Azure DevOps', 'OAuth', 'PowerShell', 'security']
 categories: ['Troubleshooting']
 ---

@@ -1,10 +1,7 @@
 ---
 title: "Migrating to GitHub Pages with Hugo" # Title of the blog post.
 date: 2020-12-28 # Date of post creation.
-images:
-  - src: "2020/11/01/migrating-to-github-pages/images/GitHubPages.png"
-    alt: ""
-    stretch: ""
+image: "2020/11/01/migrating-to-github-pages/images/GitHubPages.png"
 #description: "How I migrated my previous WordPress blog." # Description used for search engine.
 #featured: false # Sets if post is a featured post, making it appear on the sidebar. A featured post won't be listed on the sidebar if it's the current page
 draft: false # Sets whether to render this page. Draft of true will not be rendered.

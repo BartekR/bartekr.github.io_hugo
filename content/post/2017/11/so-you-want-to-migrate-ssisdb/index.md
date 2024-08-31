@@ -2,11 +2,7 @@
 title: "So, you want to migrate SSIS(DB)?"
 date: "2017-11-06"
 draft: false
-images:
-  - src: "2017/11/06/so-you-want-to-migrate-ssisdb/images/SSISMigrationHeaderImg.png"
-    alt: ""
-    stretch: ""
-coverImage: "SSISMigrationHeaderImg.png"
+image: "2017/11/06/so-you-want-to-migrate-ssisdb/images/SSISMigrationHeaderImg.png"
 tags: ['migration', 'SQL Server 2017', 'SSIS']
 categories: ['SQL Server', 'SSIS internals']
 ---

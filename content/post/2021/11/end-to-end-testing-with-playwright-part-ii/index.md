@@ -4,10 +4,6 @@ date: 2021-11-28 # Date of post creation.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: true # Controls if a table of contents should be generated for first-level links automatically.
 image: "2021/11/28/end-to-end-testing-with-playwright-part-ii/images/Header.png"
-images:
-  - src: "2021/11/28/end-to-end-testing-with-playwright-part-ii/images/Header.png"
-    alt: ""
-    stretch: ""
 tags: ['playwright', 'nunit', 'c#']
 categories: ['testing']
 ---

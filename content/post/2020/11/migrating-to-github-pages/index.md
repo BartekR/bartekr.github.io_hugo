@@ -2,10 +2,7 @@
 title: "Migrating to GitHub Pages"
 date: "2020-11-01"
 draft: false
-images:
-  - src: "2020/11/01/migrating-to-github-pages/images/GitHubPages.png"
-    alt: ""
-    stretch: ""
+image: "2020/11/01/migrating-to-github-pages/images/GitHubPages.png"
 tags: ['GitHub', 'hugo', 'WordPress']
 categories: ['Not-So-Technical']
 ---

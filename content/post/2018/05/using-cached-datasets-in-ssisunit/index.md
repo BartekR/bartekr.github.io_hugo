@@ -2,13 +2,9 @@
 title: "Using cached datasets in ssisUnit"
 date: "2018-05-31"
 draft: false
-images:
-  - src: "2018/05/31/using-cached-datasets-in-ssisunit/images/PersistedDatasetInSsisUnitFile.png"
-    alt: ""
-    stretch: ""
+image: "2018/05/31/using-cached-datasets-in-ssisunit/images/PersistedDatasetInSsisUnitFile.png"
 categories: ['Series', 'Testing', 'Learning']
 tags: ['SSIS', 'ssisUnit']
-coverImage: "PersistedDatasetInSsisUnitFile.png"
 ---
 
 [In the previous post](http://blog.bartekr.net/2018/04/30/using-connections-and-datasets-in-ssisunit/), I wrote about using datasets in the ssisUnit test. By default, the dataset query is executed against the data source each time the test is run. But we also have an option to store the dataset's result in the test file. In this post, I will show you how you can use it.

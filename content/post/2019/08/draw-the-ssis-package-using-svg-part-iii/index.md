@@ -2,10 +2,7 @@
 title: "Draw the SSIS Package using SVG - part III"
 date: "2019-08-07"
 draft: false
-images:
-  - src: "2019/08/07/draw-the-ssis-package-using-svg-part-iii/images/BoundingBoxRectangles.png"
-    alt: ""
-    stretch: ""
+image: "2019/08/07/draw-the-ssis-package-using-svg-part-iii/images/BoundingBoxRectangles.png"
 tags: ['PowerShell', 'SSIS', 'SVG', 'XML', 'XSLT']
 categories: ['Learning', 'Series']
 ---

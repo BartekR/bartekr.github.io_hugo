@@ -2,11 +2,7 @@
 title: "Learning something new: getting information from SSIS packages with PowerShell"
 date: "2017-07-26"
 draft: false
-images:
-  - src: "2017/07/26/learning-something-new-getting-information-from-ssis-packages-with-powershell/images/SSISParsingScript.png"
-    alt: ""
-    stretch: ""
-coverImage: "SSISParsingScript.png"
+images: "2017/07/26/learning-something-new-getting-information-from-ssis-packages-with-powershell/images/SSISParsingScript.png"
 tags: ['PowerShell', 'SSIS', 'XML']
 categories: ['Learning']
 ---

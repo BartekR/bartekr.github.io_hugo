@@ -2,10 +2,7 @@
 title: "Advent of Code 2020" # Title of the blog post.
 date: 2020-12-31 # Date of post creation.
 publishdate: 2020-12-30T09:00:00.000Z
-images:
-  - src: "2020/12/31/advent-of-code-2020/images/AoC.png"
-    alt: ""
-    stretch: ""
+image: "2020/12/31/advent-of-code-2020/images/AoC.png"
 #description: "How I migrated my previous WordPress blog." # Description used for search engine.
 #featured: false # Sets if post is a featured post, making it appear on the sidebar. A featured post won't be listed on the sidebar if it's the current page
 draft: false # Sets whether to render this page. Draft of true will not be rendered.

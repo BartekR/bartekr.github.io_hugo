@@ -2,11 +2,7 @@
 title: "Upgrading SSIS projects - part III"
 date: "2018-02-28"
 draft: false
-images:
-  - src: "2017/12/24/upgrading-ssis-projects-part-i/images/TargetServerVersion2017.png"
-    alt: ""
-    stretch: ""
-coverImage: "TargetServerVersion2017.png"
+image: "2017/12/24/upgrading-ssis-projects-part-i/images/TargetServerVersion2017.png"
 tags: ['migration', 'SSIS', 'internals']
 categories: ['SSIS internals']
 ---
