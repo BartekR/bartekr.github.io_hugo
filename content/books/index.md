@@ -46,7 +46,22 @@ One day I asked myself a question - how many books do I read during the year? I 
 35. Janusz Stankiewicz "Gorath. Krawędź Otchłani" (PL) 21.08.2024.
 36. Franciszek M. Piątkowski "Powiernik" (PL) 26.08.2024.
 37. Franciszek M. Piątkowski "Widzący" (PL) 28.08.2024.
-38. Franciszek M. Piątkowski "Obrońcy" (PL)
+38. Franciszek M. Piątkowski "Obrońcy" (PL) 31.08.2024.
+39. Franciszek M. Piątkowski "Wybrani" (PL) 03.09.2024.
+40. Joanna W. Gajzler "Necrovet. Radiologia bytów nadprzyrodzonych" (PL) 06.09.2024.
+41. Seo Dongwon 달 드링크 서점 (EN:"The Bookstore For Drinking Moon Glow", PL: "Księgarnia Napojów Księżyca") 11.09.2024.
+42. Marcin Mortka "Ostrza Burzy" (PL) 16.09.2024.
+43. Przemysław Duda "Pięć pustych tronów" (PL) 23.09.2024.
+44. Przemysław Duda "Drogi donikąd" (PL) 30.09.2024.
+45. Przemysław Duda "Kompania cieni" (PL) 06.10.2024.
+46. Becky Chambers "A Prayer for the Crown-Shy" (PL: "Modlitwa za nieśmiałe korony drzew") 10.10.2024.
+47. A. C. Cobble "Burning Tower" (PL: "Płonąca wieża") 17.10.2024.
+48. A. C. Cobble "Weight of the Crown" (PL: "Ciężar korony") 22.10.2024
+49. Klaudia Gregorczyk "Piekielna narzeczona" (PL) 24.10.2024. (audiobook)
+50. Magdalena Salik "Wściek" (PL) 02.11.2024.
+51. Klaudia Gregorczyk "Piekielna królowa" (PL) (audiobook) 02.11.2024.
+52. Marcin Halski "Czas zaślepionych" (PL)
+53. Klaudia Gregorczyk "Piekielna żona" (PL) (audiobook)
 
 In progress, in the background:
 
@@ -109,7 +124,7 @@ In progress, in the background:
 7. Rebecca F. Kuang "The Dragon Republic" (PL: "Republika Smoka") 27.02.2022.
 8. Rebecca F. Kuang "The Burning God" (PL: "Płonący Bóg") 13.03.2022.
 9. Tim Marshall "Prisoners of geography" (PL: "Więźniowie geografii") 23.03.2022.
-10. Tim Marshall (PL: "Potęga geografii") 04.04.2022.
+10. Tim Marshall "The Power of Geography" (PL: "Potęga geografii") 04.04.2022.
 11. Remigiusz Mróz "Projekt Riese" (PL) 08.04.2022.
 12. Jakub Ćwiek "Zawisza Czarny" (PL) 12.04.2022.
 13. Marcin Ogdowski "(Dez)informacja" (PL) 16.04.2022.
