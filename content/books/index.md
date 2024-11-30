@@ -60,8 +60,12 @@ One day I asked myself a question - how many books do I read during the year? I 
 49. Klaudia Gregorczyk "Piekielna narzeczona" (PL) 24.10.2024. (audiobook)
 50. Magdalena Salik "Wściek" (PL) 02.11.2024.
 51. Klaudia Gregorczyk "Piekielna królowa" (PL) (audiobook) 02.11.2024.
-52. Marcin Halski "Czas zaślepionych" (PL)
-53. Klaudia Gregorczyk "Piekielna żona" (PL) (audiobook)
+52. Marcin Halski "Czas zaślepionych" (PL) 08.11.2024.
+53. Marcin Halski "Kres zaślepionych" (PL) 13.11.2024.
+54. Klaudia Gregorczyk "Piekielna żona" (PL) (audiobook) 14.11.2024.
+55. Phil Knight "Shoe Dog" (PL "Sztuka zwycięstwa. Wspomnienia twórcy Nike") 21.11.2024.
+56. Brandon Sanderson, Steven Michael Bohls "Lux" (PL: "Lux") (audiobook) 30.11.2024.
+57. Wojciech Dutka "Bractwo Mandylionu" (PL)
 
 In progress, in the background:
 
