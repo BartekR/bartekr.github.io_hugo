@@ -65,7 +65,11 @@ One day I asked myself a question - how many books do I read during the year? I 
 54. Klaudia Gregorczyk "Piekielna żona" (PL) (audiobook) 14.11.2024.
 55. Phil Knight "Shoe Dog" (PL "Sztuka zwycięstwa. Wspomnienia twórcy Nike") 21.11.2024.
 56. Brandon Sanderson, Steven Michael Bohls "Lux" (PL: "Lux") (audiobook) 30.11.2024.
-57. Wojciech Dutka "Bractwo Mandylionu" (PL)
+57. Wojciech Dutka "Bractwo Mandylionu" (PL) 05.12.2024.
+58. Marcin Kowal "Stażysta. Tom 1" (PL) (audiobook) 07.12.2024.
+59. Peter A. Flannery "Decimus Fate and the Talisman of Dreams" (PL: "Decimus Fate i Talizman Marzeń") 10.12.2023.
+60. Peter A. Flannery "Decimus Fate and the Butcher of Guile" (PL: "Decimus Fate i Rzeźnik z Guile") 13.12.2024.
+61. Luiza Dobrzyńska "Pol Trek. Na dobre i na jeszcze gorsze" (PL) 19.12.2024.
 
 In progress, in the background:
 
