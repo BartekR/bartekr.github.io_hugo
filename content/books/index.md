@@ -7,7 +7,19 @@ type: page
 
 One day I asked myself a question - how many books do I read during the year? I assume it's about 40, but wanted to check it. So for the year 2018, I started writing down the books I read. I published it on twitter, but some books took me quite some time to finish (like ~1000 pages "The Way Of Kings" by Brandon Sanderson), and I forgot the numbers. So - besides publishing on twitter, I began writing down right here. The dates (when I finished reading the book) start from #4 in 2018, as I started to pay attention to them.
 
+## 2025
+
+### Books
+
+1. Ichiro Kishimi, Fumitake Koga "Kirawareru Yuki" (EN: "The Courage to Be Disliked", PL: "Odwaga bycia nielubianym")
+
+### Audiobooks
+
+1. Karo M. Nowak "Na wieki wieków korpo" (PL) (audiobook)
+
 ## 2024
+
+### Books
 
 1. Michael J. Sullivan "Age of Myth" (PL: "Epoka Mitu") 02.01.2024.
 2. Toshikazu Kawaguchi (PL: "Zanim wyblakną wspomnienia") 10.01.2024.
@@ -57,19 +69,25 @@ One day I asked myself a question - how many books do I read during the year? I 
 46. Becky Chambers "A Prayer for the Crown-Shy" (PL: "Modlitwa za nieśmiałe korony drzew") 10.10.2024.
 47. A. C. Cobble "Burning Tower" (PL: "Płonąca wieża") 17.10.2024.
 48. A. C. Cobble "Weight of the Crown" (PL: "Ciężar korony") 22.10.2024
-49. Klaudia Gregorczyk "Piekielna narzeczona" (PL) 24.10.2024. (audiobook)
-50. Magdalena Salik "Wściek" (PL) 02.11.2024.
-51. Klaudia Gregorczyk "Piekielna królowa" (PL) (audiobook) 02.11.2024.
-52. Marcin Halski "Czas zaślepionych" (PL) 08.11.2024.
-53. Marcin Halski "Kres zaślepionych" (PL) 13.11.2024.
-54. Klaudia Gregorczyk "Piekielna żona" (PL) (audiobook) 14.11.2024.
-55. Phil Knight "Shoe Dog" (PL "Sztuka zwycięstwa. Wspomnienia twórcy Nike") 21.11.2024.
-56. Brandon Sanderson, Steven Michael Bohls "Lux" (PL: "Lux") (audiobook) 30.11.2024.
-57. Wojciech Dutka "Bractwo Mandylionu" (PL) 05.12.2024.
-58. Marcin Kowal "Stażysta. Tom 1" (PL) (audiobook) 07.12.2024.
-59. Peter A. Flannery "Decimus Fate and the Talisman of Dreams" (PL: "Decimus Fate i Talizman Marzeń") 10.12.2023.
-60. Peter A. Flannery "Decimus Fate and the Butcher of Guile" (PL: "Decimus Fate i Rzeźnik z Guile") 13.12.2024.
-61. Luiza Dobrzyńska "Pol Trek. Na dobre i na jeszcze gorsze" (PL) 19.12.2024.
+49. Magdalena Salik "Wściek" (PL) 02.11.2024.
+50. Marcin Halski "Czas zaślepionych" (PL) 08.11.2024.
+51. Marcin Halski "Kres zaślepionych" (PL) 13.11.2024.
+52. Phil Knight "Shoe Dog" (PL "Sztuka zwycięstwa. Wspomnienia twórcy Nike") 21.11.2024.
+53. Wojciech Dutka "Bractwo Mandylionu" (PL) 05.12.2024.
+54. Peter A. Flannery "Decimus Fate and the Talisman of Dreams" (PL: "Decimus Fate i Talizman Marzeń") 10.12.2023.
+55. Peter A. Flannery "Decimus Fate and the Butcher of Guile" (PL: "Decimus Fate i Rzeźnik z Guile") 13.12.2024.
+56. Luiza Dobrzyńska "Pol Trek. Na dobre i na jeszcze gorsze" (PL) 19.12.2024.
+57. Baoshu 观想之宙 (EN: "The Redemption of Time", PL: "Odzyskanie czasu") 28.12.2024.
+58. Franciszek M. Piątkowski "Trzej Maszkaronowie" (PL) 30.12.2024.
+
+### Audiobooks
+
+1. Klaudia Gregorczyk "Piekielna narzeczona" (PL) 24.10.2024. (audiobook)
+2. Klaudia Gregorczyk "Piekielna żona" (PL) (audiobook) 14.11.2024.
+3. Klaudia Gregorczyk "Piekielna królowa" (PL) (audiobook) 02.11.2024.
+4. Brandon Sanderson, Steven Michael Bohls "Lux" (PL: "Lux") (audiobook) 30.11.2024.
+5. Marcin Kowal "Stażysta. Tom 1" (PL) (audiobook) 07.12.2024.
+6. Weronika Ancerowicz "Królestwo Pik" (PL) (audiobook) 25.12.2024.
 
 In progress, in the background:
 
@@ -164,7 +182,7 @@ In progress, in the background:
 39. Anthony Ryan "Wolf's Call" (PL: "Zew wilka") 22.09.2022.
 40. Marcin Mortka "Przed wyruszeniem w drogę" (PL) 23.09.2022.
 41. Robert Cialdini "Influence (Principles of Ethical Influence)" (PL: "Zasady wywierania wpływu na ludzi") 25.09.2022.
-42. Anna Nieznaj (PL) "Dolina niesamowitości" 02.10.2022.
+42. Anna Nieznaj "Dolina niesamowitości" (PL) 02.10.2022.
 43. Anthony Ryan "Black Song" (PL: "Czarna Pieśń") 10.10.2022.
 44. Greg McKeown "Essentialism: The Disciplined Pursuit of Less" (PL: "Esencjalista: mniej, ale lepiej") 18.10.2022.
 45. Artur Nowak, Stanisław Obirek "Babilon" (PL) 23.10.2022.
@@ -176,7 +194,7 @@ In progress, in the background:
 51. Grzegorz Gajek "Piast" (PL) 08.12.2022.
 52. Tomasz Awłasewicz "Niewidzialni. Największa tajemnica służb specjalnych PRL" (PL) 13.12.2022.
 53. Marek S. Huberath "Druga podobizna w alabastrze" (PL) 14.12.2022.
-54. Toshikazu Kawaguchi "Before the Coffee Gets Cold" (PL: "Zanim wystygnie kawa", JP: コーヒーが冷めないうちに "Kohi ga Samenai Uchi ni") 17.12.2022.
+54. Toshikazu Kawaguchi コーヒーが冷めないうちに "Kohi ga Samenai Uchi ni" (EN: "Before the Coffee Gets Cold", PL: "Zanim wystygnie kawa") 17.12.2022.
 55. Marcin Mortka "Mroźny szlak" (PL) 25.12.2022.
 56. Marcin Mortka "Martwe Jezioro" (PL) 30.12.2022.
 
@@ -255,7 +273,7 @@ In progress, in the background:
 32. Gene Wolfe "The Sword of the Lictor. Citadel of the Autarch" (PL: "Miecz i Cytadela". _Miecz Liktora. Cytadela Autarchy_) 10.10.2020.
 33. Chris Lowney "Heroic leadership. Best Practices from a 450-year-old Company that Changed the World" (PL: "Heroiczne przywództwo. Tajemnice sukcesu firmy istniejącej ponad 450 lat") 29.10.2020.
 34. Ryan Holiday, Stephen Hanselman "The Daily Stoic Journal: 366 Days of Writing and Reflection on the Art of Living" (PL: "Stoicyzm na każdy dzień roku. 366 medytacji na temat mądrości, wytrwałości i sztuki życia") 29.10.2020. *)
-35. Sebastien de Castell "Tyrant’s Throne" (PL: "Tron Tyrana") 15.11.2020.
+35. Sebastien de Castell "Tyrant's Throne" (PL: "Tron Tyrana") 15.11.2020.
 36. Margaret Atwood "Handmaid's Tale" (PL: "Opowieść podręcznej") 29.11.2020.
 37. Radosław Kotarski "Inaczej" (PL) 15.12.2020.
 38. Marcin Ciszewski "Deszcz" (PL) 30.12.2020.
