@@ -5,17 +5,28 @@ draft: false
 type: page
 ---
 
-One day I asked myself a question - how many books do I read during the year? I assume it's about 40, but wanted to check it. So for the year 2018, I started writing down the books I read. I published it on twitter, but some books took me quite some time to finish (like ~1000 pages "The Way Of Kings" by Brandon Sanderson), and I forgot the numbers. So - besides publishing on twitter, I began writing down right here. The dates (when I finished reading the book) start from #4 in 2018, as I started to pay attention to them.
+One day I asked myself a question - how many books do I read during the year? I assume it's about 40, but wanted to check it. So for the year 2018, I started writing down the books I read. I published it on twitter, but some books took me quite some time to finish (like ~1000 pages "The Way Of Kings" by Brandon Sanderson), and I forgot the numbers. So - besides publishing on twitter, I began writing down right here. The dates (when I finished reading the book) start from #4 in 2018, as I started to pay attention to them. Since 2024 I started listening to audiobooks and I made a separate section for them.
 
 ## 2025
 
 ### Books
 
-1. Ichiro Kishimi, Fumitake Koga "Kirawareru Yuki" (EN: "The Courage to Be Disliked", PL: "Odwaga bycia nielubianym")
+1. Ichiro Kishimi, Fumitake Koga "Kirawareru Yuki" (EN: "The Courage to Be Disliked", PL: "Odwaga bycia nielubianym") 08.01.2025.
+2. Maciej Siembieda "444" (PL) 14.01.2025.
+3. Agnieszka "Vivianne" Kowalska "Nie pozwól mi zasnąć" (PL) 16.01.2025.
+4. Anna Szumacher "Słowodzicielka" (PL) 22.01.2025.
+5. Małgorzata Węglarz, Mateusz Węgorowski "Jak usunąć wujka z podłogi?" (PL) 24.01.2025.
+6. Anna Szumacher "Słowiedźma" (PL) 29.01.2025.
+7. Anna Szumacher "Słowalkiria" (PL) 04.02.2025.
+8. Janusz Stankiewicz "Gorath. Droga gniewu" (PL) 12.02.2025.
+9. Kim Scott "Radical Candor" (PL: "Szef wymagający i wyrozumiały")
 
 ### Audiobooks
 
-1. Karo M. Nowak "Na wieki wieków korpo" (PL) (audiobook)
+1. Karo M. Nowak "Na wieki wieków korpo" (PL) (audiobook) 09.01.2025.
+2. Karo M. Nowak "I odpuść nam nasze korpo" (PL) (audiobook) 30.01.2025.
+3. Maciej Siembieda "Gambit" (PL) (audiobook) 12.02.2025.
+4. Maciej Siembieda "Katharsis" (PL) (audiobook)
 
 ## 2024
 
@@ -83,11 +94,11 @@ One day I asked myself a question - how many books do I read during the year? I 
 ### Audiobooks
 
 1. Klaudia Gregorczyk "Piekielna narzeczona" (PL) 24.10.2024. (audiobook)
-2. Klaudia Gregorczyk "Piekielna żona" (PL) (audiobook) 14.11.2024.
-3. Klaudia Gregorczyk "Piekielna królowa" (PL) (audiobook) 02.11.2024.
-4. Brandon Sanderson, Steven Michael Bohls "Lux" (PL: "Lux") (audiobook) 30.11.2024.
-5. Marcin Kowal "Stażysta. Tom 1" (PL) (audiobook) 07.12.2024.
-6. Weronika Ancerowicz "Królestwo Pik" (PL) (audiobook) 25.12.2024.
+2. Klaudia Gregorczyk "Piekielna żona" (PL) 14.11.2024. (audiobook)
+3. Klaudia Gregorczyk "Piekielna królowa" (PL) 02.11.2024. (audiobook)
+4. Brandon Sanderson, Steven Michael Bohls "Lux" (PL: "Lux") 30.11.2024. (audiobook)
+5. Marcin Kowal "Stażysta. Tom 1" (PL) 07.12.2024. (audiobook)
+6. Weronika Ancerowicz "Królestwo Pik" (PL) 25.12.2024. (audiobook)
 
 In progress, in the background:
 
