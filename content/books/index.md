@@ -19,14 +19,22 @@ One day I asked myself a question - how many books do I read during the year? I 
 6. Anna Szumacher "Słowiedźma" (PL) 29.01.2025.
 7. Anna Szumacher "Słowalkiria" (PL) 04.02.2025.
 8. Janusz Stankiewicz "Gorath. Droga gniewu" (PL) 12.02.2025.
-9. Kim Scott "Radical Candor" (PL: "Szef wymagający i wyrozumiały")
+9. Michał Głowacz "Żywy beton" (PL) 03.03.2025.
+10. Kim Scott "Radical Candor" (PL: "Szef wymagający i wyrozumiały") 05.03.2025.
+11. Agata Suchocka "Dice" (PL) 09.03.2025.
+12. Agata Suchocka "Bite me" (PL) 13.03.2025.
+13. Michael Moorcock "Behold the Man" (PL: "... i ujrzeli człowieka") 16.03.2025.
+14. Joanna Karyś "Smocze kryształy. Sekrety władców" (PL) 22.03.2025.
+15. Joanna Karyś "Smocze kryształy. Krwawe przeznaczenie" (PL)
 
 ### Audiobooks
 
 1. Karo M. Nowak "Na wieki wieków korpo" (PL) (audiobook) 09.01.2025.
 2. Karo M. Nowak "I odpuść nam nasze korpo" (PL) (audiobook) 30.01.2025.
 3. Maciej Siembieda "Gambit" (PL) (audiobook) 12.02.2025.
-4. Maciej Siembieda "Katharsis" (PL) (audiobook)
+4. Maciej Siembieda "Katharsis" (PL) (audiobook) 14.03.2025.
+5. Jason Fried, David Heinemeier Hansson "Rework" (PL: "Rework") (audiobook) 18.03.2025.
+6. Marissa Meyer "Cinder" (PL: "Cinder") (audiobook)
 
 ## 2024
 
