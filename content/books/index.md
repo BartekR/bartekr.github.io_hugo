@@ -25,7 +25,16 @@ One day I asked myself a question - how many books do I read during the year? I 
 12. Agata Suchocka "Bite me" (PL) 13.03.2025.
 13. Michael Moorcock "Behold the Man" (PL: "... i ujrzeli człowieka") 16.03.2025.
 14. Joanna Karyś "Smocze kryształy. Sekrety władców" (PL) 22.03.2025.
-15. Joanna Karyś "Smocze kryształy. Krwawe przeznaczenie" (PL)
+15. Joanna Karyś "Smocze kryształy. Krwawe przeznaczenie" (PL) 30.03.2025.
+16. Joanna Karyś "Smocze kryształy. Przepowiednia bogów" (PL) 04.04.2025.
+17. Jonny Thomson "Mini Big Ideas: A Little Book of Big Innovations" (PL: "Wielkie idee dla zabieganych") 06.04.2025. *)
+18. Patryk Żelazny "Między nami jest śmierć" (PL) 10.04.2025.
+19. Konrad Hildebrand "Natychmiast to skasuj" (PL) 17.04.2025.
+20. Katarzyna Wycisk "Krew Nowych Bogów" (PL) 25.04.2025.
+21. Anne Toole, Ann Maulina "Horizon Zero Dawn: The Sunhawk" (PL: "Horizon Zero Dawn: Raróg") (comics)
+22. Katarzyna Wycisk "Gniew Nowych Bogów" (PL)
+
+*) I've read this book one chapter a day
 
 ### Audiobooks
 
@@ -34,7 +43,11 @@ One day I asked myself a question - how many books do I read during the year? I 
 3. Maciej Siembieda "Gambit" (PL) (audiobook) 12.02.2025.
 4. Maciej Siembieda "Katharsis" (PL) (audiobook) 14.03.2025.
 5. Jason Fried, David Heinemeier Hansson "Rework" (PL: "Rework") (audiobook) 18.03.2025.
-6. Marissa Meyer "Cinder" (PL: "Cinder") (audiobook)
+6. Marissa Meyer "Cinder" (PL: "Cinder") (audiobook) 30.03.2025.
+7. Marissa Meyer "Scarlet" (PL: "Scarlet") (audiobook) 08.04.2025.
+8. Miłosz Brzeziński "Głaskologia" (PL) (audiobook) 20.04.2025.
+9. Miłosz Brzeziński "Życiologia" (PL) (audiobook) 25.04.2025.
+10. Miłosz Brzeziński "Wy wszyscy moi ja" (PL) (audiobook)
 
 ## 2024
 
