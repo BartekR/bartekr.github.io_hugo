@@ -1,6 +1,6 @@
 # blog.bartekr.net - backend
 
-To write my blog I use markdown, hugo and GitHub Pages. This is the source repository for the blog content. I use the [hugo-future-imperfect-slim](https://themes.gohugo.io/hugo-future-imperfect-slim/) theme.
+To write my blog I use markdown, hugo and GitHub Pages. This is the source repository for the blog content. Initially I used the [hugo-future-imperfect-slim](https://themes.gohugo.io/hugo-future-imperfect-slim/) theme, and switched to [Stack](https://github.com/CaiJimmy/hugo-theme-stack) in 2024.
 
 * build (in `bartekr.github.io_hugo`): `hugo -d ..\bartekr.github.io\`
 * build with future posts (in `bartekr.github.io_hugo`): `hugo -d ..\bartekr.github.io\ --buildFuture`
