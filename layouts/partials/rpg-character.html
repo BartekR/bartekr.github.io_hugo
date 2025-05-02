@@ -1,0 +1,29 @@
+{{/* Generated using Perplexity.ai */}}
+
+<div style="display: flex; align-items: flex-start;">
+    {{ if .skills }}
+    {{ $lines := split .skills "\r\n" }}
+    <table style="border-collapse: collapse; width: 100%;">
+        {{ range $lines }}
+        {{ $parts := split . ":" }}
+        {{ if eq (len $parts) 2 }}
+            {{ $key := index $parts 0 }}
+            {{ $value := index $parts 1 }}
+            <tr>
+            <td style="border: 1px solid #ccc; padding: 8px; font-weight: bold;">{{ $key }}</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">{{ $value }}</td>
+            </tr>
+        {{ end }}
+        {{ end }}
+    </table>
+    {{ else }}
+    <p>No character data</p>
+    {{ end }}
+  
+    {{- with .image -}}
+      <img src="{{ .src }}" alt="{{ .alt }}" style="max-width: 350px; height: auto;">
+    {{- else -}}
+      <p>Image missing</p>
+    {{- end -}}
+  </div>
+  

@@ -1,0 +1,9 @@
+{{ $src := .Get "image" }}
+{{ $alt := .Get "alt" }}
+{{ $content := trim .Inner "\r\n"}}
+
+{{/*
+<pre>{{ printf "%#v" .Params }}</pre>
+<pre>{{ printf "%#v" .Inner }}</pre>
+*/}}
+{{ partial "rpg-character.html" (dict "skills" $content "image" (dict "src" $src "alt" $alt)) }}
