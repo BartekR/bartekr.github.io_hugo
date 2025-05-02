@@ -57,4 +57,17 @@ sudo update-alternatives --config iptables
 
 As of May 2025, this set of commands is enough to get `docker` and `docker-compose` up and running. If something is not working, restart your WSL session.
 
-Well, this was quick—like a very short game prologue. Nevertheless, you deserve 1 point to upgrade your statistics.
+Well, this was quick—like a very short game prologue. Nevertheless, you earn 100 XP and deserve 1 point to upgrade your statistics. I choose Perception +1
+
+{{< rpg-character
+    image="/img/rpg/Jaesika%20Kelamin%20-%20Deorum%20character.png"
+    alt="RPG Character"
+>}}
+Strength:7
+Agility:6
+Endurance:5
+Perception:5 -> 6
+Cunning:6
+Charisma:4
+Level 1: XP 100 / 300
+{{< /rpg-character >}}

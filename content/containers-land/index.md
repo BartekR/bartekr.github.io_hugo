@@ -13,4 +13,27 @@ The adventure started with an idea, a map, few characters along the way, startin
 
 1. [Prologue: Docker setup on WSL2](/2025/05/01/containers-land-docker-setup-on-wsl2/)
 
-[Perilous shores](https://watabou.github.io/realm.html)
+The adventure hero **Jaesika Kelamin**, and the starting stats
+
+{{< rpg-character
+    image="/img/rpg/Jaesika%20Kelamin%20-%20Deorum%20character.png"
+    alt="RPG Character"
+>}}
+Strength:7
+Agility:6
+Endurance:5
+Perception:5
+Cunning:6
+Charisma:4
+{{< /rpg-character >}}
+
+| Attribute    | Starting Value | Brief Explanation                                         |
+|--------------|----------------|-----------------------------------------------------------|
+| Strength     | 7              | Key for wielding a sword effectively and dealing damage.  |
+| Agility      | 6              | Important for dodging, parrying, and swift footwork.      |
+| Endurance    | 5              | Stamina and resistance to fatigue during combat.          |
+| Perception   | 5              | Awareness of surroundings, spotting threats.              |
+| Cunning      | 6              | Tactical thinking, planning, and problem-solving.         |
+| Charisma     | 4              | Ability to influence others; useful in negotiations.      |
+
+Map created with [Perilous shores](https://watabou.github.io/realm.html), character: [Deorum](https://deorum.vercel.app/embed/h2z9lr1kqm873a8)
