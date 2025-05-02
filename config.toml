@@ -152,3 +152,7 @@ paginate = 10
 
 [markup.highlight]
   noClasses = false
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-F8HV67CGLR'
