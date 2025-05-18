@@ -12,6 +12,7 @@ I wanted to return to bloging after a break, and I wanted to make something diff
 The adventure started with an idea, a map, few characters along the way, starting point (WSL2), and minimal plan. And here's what has happened (so far):
 
 1. [Prologue: Docker setup on WSL2](/2025/05/01/containers-land-docker-setup-on-wsl2/)
+1. [Tutorial: Docker basics](/2025/05/18/containers-land-docker-basics/)
 
 The adventure hero **Jaesika Kelamin**, and the starting stats
 
