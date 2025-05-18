@@ -1,5 +1,5 @@
 ---
-title: "Containers Land: docker setup on WSL2" # Title of the blog post.
+title: "Containers Land: Docker setup on WSL2" # Title of the blog post.
 date: 2025-05-01 # Date of post creation.
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
