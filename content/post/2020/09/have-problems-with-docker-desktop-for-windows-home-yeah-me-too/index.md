@@ -11,7 +11,7 @@ Last week finally came that day: "I will give a shot to a Docker Desktop for Win
 
 Well, that was unexpected. Up to now, I worked with docker mostly on Ubuntu 18.04 and sometimes Windows Server 2016 / Windows 10 Professional. Also at home, I prepared a working environment consisting of Windows 10 Home + WSL + VirtualBox. The last one for hosting an Ubuntu virtual machine, as it's not possible to run Docker Desktop on Windows 10 Home or run a docker daemon in WSL. I configured it with a very helpful posts from Nick Janetakis ([https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly), [https://nickjanetakis.com/blog/docker-tip-73-connecting-to-a-remote-docker-daemon](https://nickjanetakis.com/blog/docker-tip-73-connecting-to-a-remote-docker-daemon)). Now, with WSL2 I could eliminate VirtualBox from the ecosystem.
 
-After the installation and some restarts I opened the PowerShell, wrote `docker version` and got the message: _"unable to resolve docker endpoint: open C:\\Users\\<user>\\.docker\\machine\\machines\\default\\ca.pem: The system cannot find the path specified"_
+After the installation and some restarts I opened the PowerShell, wrote `docker version` and got the message: _"unable to resolve docker endpoint: open C:\\Users\\BartekR\\.docker\\machine\\machines\\default\\ca.pem: The system cannot find the path specified"_
 
 The problem might occur because I was testing a Docker Toolbox a long time ago, and the uninstaller might not delete all the settings. The solution: change the `DOCKER_CERT_PATH` environment variable. To list all docker related variables I run this in PowerShell:
 
