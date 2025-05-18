@@ -31,8 +31,13 @@ One day I asked myself a question - how many books do I read during the year? I 
 18. Patryk Żelazny "Między nami jest śmierć" (PL) 10.04.2025.
 19. Konrad Hildebrand "Natychmiast to skasuj" (PL) 17.04.2025.
 20. Katarzyna Wycisk "Krew Nowych Bogów" (PL) 25.04.2025.
-21. Anne Toole, Ann Maulina "Horizon Zero Dawn: The Sunhawk" (PL: "Horizon Zero Dawn: Raróg") (comics)
-22. Katarzyna Wycisk "Gniew Nowych Bogów" (PL)
+21. Katarzyna Wycisk "Gniew Nowych Bogów" (PL) 02.05.2025.
+22. Agata Suchocka "Świetliki" (PL) 05.05.2025.
+23. Olga Niziołek "Dzieci jednej pajęczycy" (PL) 08.05.2025.
+24. Kala Flaga-Andrzejewska "Oblicza wampiryzmu" (PL) 10.05.2025.
+25. Anne Toole, Ann Maulina "Horizon Zero Dawn: The Sunhawk" (PL: "Horizon Zero Dawn: Raróg") (comics) 10.05.2025.
+26. Anne Toole, Elmer Damaso, Bryan Valenza "Horizon Zero Dawn: Liberation" (PL: "Horizon Zero Dawn: Wyzwolenie") (comics)
+27. Jarosław Dobrowolski "Delirium" (PL)
 
 *) I've read this book one chapter a day
 
