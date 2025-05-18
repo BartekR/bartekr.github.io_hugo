@@ -1,7 +1,7 @@
 ---
 title: "Containers Land: Docker Basics" # Title of the blog post.
 date: 2025-05-18 # Date of post creation.
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 image: "2025/05/18/containers-land-docker-basics/images/docker_cli.png"
 tags: ['docker', 'wsl2']
@@ -10,7 +10,7 @@ categories: ['containers']
 
 Whole series, assumptions, and map: [Container Lands](/containers-land)
 
-The morning was quite chilly. You stood in the hut's open doorway of the hut and watched the rising sun. You know you need to leave the cosy WSL2 village soon. "Tomorrow", you think, and grab your stuff. Time for the morning training.
+The morning was quite chilly. You stood in the hut's open doorway and watched the rising sun. You know you need to leave the cosy WSL2 village soon. "Tomorrow", you think, and grab your stuff. Time for the morning training.
 
 ## Using basic commands
 
