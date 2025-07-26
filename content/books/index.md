@@ -36,8 +36,20 @@ One day I asked myself a question - how many books do I read during the year? I 
 23. Olga Niziołek "Dzieci jednej pajęczycy" (PL) 08.05.2025.
 24. Kala Flaga-Andrzejewska "Oblicza wampiryzmu" (PL) 10.05.2025.
 25. Anne Toole, Ann Maulina "Horizon Zero Dawn: The Sunhawk" (PL: "Horizon Zero Dawn: Raróg") (comics) 10.05.2025.
-26. Anne Toole, Elmer Damaso, Bryan Valenza "Horizon Zero Dawn: Liberation" (PL: "Horizon Zero Dawn: Wyzwolenie") (comics)
-27. Jarosław Dobrowolski "Delirium" (PL)
+26. Jarosław Dobrowolski "Delirium" (PL) 18.05.2025.
+27. Jarosław Dobrowolski "Cyjan" (PL) 26.05.2025.
+28. Przemysław Duda "Dzikie gęsi" (PL) 29.05.2025.
+29. Agnieszka Wojciechowska "Pali się!" (PL) 01.06.2025.
+30. Kamila Goszczyńska "Kwiat Datury. Iskra" (PL) 06.06.2025.
+31. Kamila Goszczyńska "Kwiat Datury. Płomień" (PL) 13.06.2025.
+32. Kamila Goszczyńska "Kwiat Datury. Pożoga" (PL) 21.06.2025.
+33. Paweł Zbroszczyk "Dar anomalii. Księga I" (PL) 27.06.2025.
+34. Paweł Zbroszczyk "Dar anomalii. Księga II" (PL) 06.07.2025.
+35. Paweł Zbroszczyk "Dar anomalii. Księga III" (PL) 16.07.2025.
+36. Robert Batory "Synimet. Granica nieskończoności" (PL) 19.07.2025.
+37. Zeter Zelke "Zimne ognie" (PL) 26.07.2025.
+38. Anne Toole, Elmer Damaso, Bryan Valenza "Horizon Zero Dawn: Liberation" (PL: "Horizon Zero Dawn: Wyzwolenie") (comics)
+39. So Young Park "스노볼" (EN: "Snow globe", PL: "Snow globe")
 
 *) I've read this book one chapter a day
 
@@ -52,7 +64,15 @@ One day I asked myself a question - how many books do I read during the year? I 
 7. Marissa Meyer "Scarlet" (PL: "Scarlet") (audiobook) 08.04.2025.
 8. Miłosz Brzeziński "Głaskologia" (PL) (audiobook) 20.04.2025.
 9. Miłosz Brzeziński "Życiologia" (PL) (audiobook) 25.04.2025.
-10. Miłosz Brzeziński "Wy wszyscy moi ja" (PL) (audiobook)
+10. Miłosz Brzeziński "Wy wszyscy moi ja" (PL) (audiobook) 19.05.2025.
+11. Jakub Szamałek "Stacja" (PL) (audiobook) 27.05.2025.
+12. Jakub Szamałek "Złoty pył" (PL) (audiobook) 04.06.2025.
+13. Jakub Szamałek "Gorzkie wino" (PL) (audiobook) 20.06.2025.
+14. Barbara Sinica "Spowiedź" (PL) (audiobook) 27.06.2025.
+15. Marcin Mortka "Żółte ślepia" (PL) (audiobook) 10.07.2025.
+16. Krzysztof Piersa "Gustloff. Tajemnica Bursztynowej Komnaty" (PL) (audiobook) 17.07.2025.
+17. Krzysztof Piersa "Riese. Tajemnica Gór Sowich" (PL) (audiobook) 25.07.2025.
+18. Miłosz Brzeziński "Biznes, czyli sztuka budowania relacji" (PL) (audiobook)
 
 ## 2024
 
